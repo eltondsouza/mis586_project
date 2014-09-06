@@ -1,0 +1,143 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Aug 03 16:16:27 +0000 2008", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Designer, developer, gamer, sushi lover, & a fan of cryptocurrency. I also live in a camper with my husband & 2 dogs.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "lauriefenter.com", 
+                    "expanded_url": "http://www.lauriefenter.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/k16mfYlinl"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 7, 
+    "follow_request_sent": false, 
+    "followers_count": 1071, 
+    "following": true, 
+    "friends_count": 684, 
+    "geo_enabled": true, 
+    "id": 15711635, 
+    "id_str": "15711635", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 33, 
+    "location": "USA", 
+    "name": "Laurie Fenter", 
+    "notifications": false, 
+    "profile_background_color": "FFFFFF", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/202792135/TwitterBG.jpg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/202792135/TwitterBG.jpg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15711635/1406938686", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495363567005077504/5W8PoJW4_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495363567005077504/5W8PoJW4_normal.jpeg", 
+    "profile_link_color": "091547", 
+    "profile_sidebar_border_color": "95409B", 
+    "profile_sidebar_fill_color": "EFDFF0", 
+    "profile_text_color": "000000", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "Lauriex", 
+    "status": {
+        "contributors": null, 
+        "coordinates": {
+            "coordinates": [
+                -70.44559722, 
+                44.11500884
+            ], 
+            "type": "Point"
+        }, 
+        "created_at": "Sun Aug 31 19:57:13 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "swarmapp.com/lauriefenter/c\u2026", 
+                    "expanded_url": "https://www.swarmapp.com/lauriefenter/checkin/54037e19498effb1acc88aab?s=EEqTTdcIWJ-T6Liumn25sFsHXEc&ref=tw", 
+                    "indices": [
+                        47, 
+                        70
+                    ], 
+                    "url": "https://t.co/t3fpKwmSUc"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": {
+            "coordinates": [
+                44.11500884, 
+                -70.44559722
+            ], 
+            "type": "Point"
+        }, 
+        "id": 506168853928611842, 
+        "id_str": "506168853928611842", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": {
+            "attributes": {}, 
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -71.084335, 
+                            42.917127
+                        ], 
+                        [
+                            -66.885075, 
+                            42.917127
+                        ], 
+                        [
+                            -66.885075, 
+                            47.459687
+                        ], 
+                        [
+                            -71.084335, 
+                            47.459687
+                        ]
+                    ]
+                ], 
+                "type": "Polygon"
+            }, 
+            "contained_within": [], 
+            "country": "United States", 
+            "country_code": "US", 
+            "full_name": "Maine, US", 
+            "id": "463f5d9615d7d1be", 
+            "name": "Maine", 
+            "place_type": "admin", 
+            "url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json"
+        }, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", 
+        "text": "Let's gamble!! (@ Oxford Casino in Oxford, ME) https://t.co/t3fpKwmSUc", 
+        "truncated": false
+    }, 
+    "statuses_count": 4247, 
+    "time_zone": null, 
+    "url": "http://t.co/k16mfYlinl", 
+    "utc_offset": null, 
+    "verified": false
+}

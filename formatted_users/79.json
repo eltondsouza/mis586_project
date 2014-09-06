@@ -1,0 +1,129 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Mar 23 08:55:20 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "The Phantom of The Crypto Basic crypto analysis, as well as sharing my personal opionions.\nBTC:1CQdumUeRcs7ZtyLDoiiyAnchRdZWoFsoh", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 146, 
+    "follow_request_sent": false, 
+    "followers_count": 541, 
+    "following": true, 
+    "friends_count": 587, 
+    "geo_enabled": true, 
+    "id": 2406505603, 
+    "id_str": "2406505603", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 7, 
+    "location": "", 
+    "name": "The Phantom", 
+    "notifications": false, 
+    "profile_background_color": "58DEF5", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2406505603/1395876473", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/447658860413612032/ClZu8AWB_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/447658860413612032/ClZu8AWB_normal.jpeg", 
+    "profile_link_color": "000000", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "F6F6F6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "CryptoPhantom", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sun Jun 15 21:05:15 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        13, 
+                        23
+                    ], 
+                    "text": "cinnicoin"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 278154986, 
+                    "id_str": "278154986", 
+                    "indices": [
+                        3, 
+                        11
+                    ], 
+                    "name": "Jean-Pierre Buntinx", 
+                    "screen_name": "jdebunt"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 478282109618888704, 
+        "id_str": "478282109618888704", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sun Jun 15 18:18:55 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "text": "cinnicoin"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 478240250272448512, 
+            "id_str": "478240250272448512", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "#cinnicoin article being typed out as we speak", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @jdebunt: #cinnicoin article being typed out as we speak", 
+        "truncated": false
+    }, 
+    "statuses_count": 877, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}

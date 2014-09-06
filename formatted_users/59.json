@@ -1,0 +1,227 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Sep 11 02:25:59 +0000 2012", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "| 15 | Sim Racer @iRacing | @JeffGordonWeb fan | Dream of NASCAR | Kart Racer | Cryptocurrency Enthusiast | WRHS 16'| Seeking Sponsors!", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "facebook.com/ryanborgesraci\u2026", 
+                    "expanded_url": "http://facebook.com/ryanborgesracing", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/r6RCH9xEl0"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 3415, 
+    "follow_request_sent": false, 
+    "followers_count": 678, 
+    "following": true, 
+    "friends_count": 678, 
+    "geo_enabled": true, 
+    "id": 816509173, 
+    "id_str": "816509173", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 5, 
+    "location": "Rutland, MA", 
+    "name": "Ryan Borges", 
+    "notifications": false, 
+    "profile_background_color": "000000", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/498562075711389697/A-goGsFr.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/498562075711389697/A-goGsFr.jpeg", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/816509173/1407110540", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/495471565652631552/0YcJopPL_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/495471565652631552/0YcJopPL_normal.jpeg", 
+    "profile_link_color": "4C79FF", 
+    "profile_sidebar_border_color": "000000", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "ryanborges24", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 03:07:22 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/0GNwqK1skT", 
+                    "expanded_url": "http://twitter.com/Justin_Bowker20/status/508066463052468224/photo/1", 
+                    "id": 508066462364618753, 
+                    "id_str": "508066462364618753", 
+                    "indices": [
+                        94, 
+                        116
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/Bw0DwXOIUAE2ug9.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/Bw0DwXOIUAE2ug9.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 1024, 
+                            "resize": "fit", 
+                            "w": 768
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 508066463052468224, 
+                    "source_status_id_str": "508066463052468224", 
+                    "type": "photo", 
+                    "url": "http://t.co/0GNwqK1skT"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 1360328520, 
+                    "id_str": "1360328520", 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "name": "Justin Bowker", 
+                    "screen_name": "Justin_Bowker20"
+                }, 
+                {
+                    "id": 170501711, 
+                    "id_str": "170501711", 
+                    "indices": [
+                        78, 
+                        93
+                    ], 
+                    "name": "Bobby Spellane", 
+                    "screen_name": "bobby_spellane"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508089045063569408, 
+        "id_str": "508089045063569408", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 4, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 01:37:38 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/0GNwqK1skT", 
+                        "expanded_url": "http://twitter.com/Justin_Bowker20/status/508066463052468224/photo/1", 
+                        "id": 508066462364618753, 
+                        "id_str": "508066462364618753", 
+                        "indices": [
+                            73, 
+                            95
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/Bw0DwXOIUAE2ug9.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Bw0DwXOIUAE2ug9.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 768
+                            }, 
+                            "medium": {
+                                "h": 800, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 453, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "http://t.co/0GNwqK1skT"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 170501711, 
+                        "id_str": "170501711", 
+                        "indices": [
+                            57, 
+                            72
+                        ], 
+                        "name": "Bobby Spellane", 
+                        "screen_name": "bobby_spellane"
+                    }
+                ]
+            }, 
+            "favorite_count": 35, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508066463052468224, 
+            "id_str": "508066463052468224", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 4, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Helping mr spellane find the perfect tampon for himself \ud83d\ude02@bobby_spellane http://t.co/0GNwqK1skT", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @Justin_Bowker20: Helping mr spellane find the perfect tampon for himself \ud83d\ude02@bobby_spellane http://t.co/0GNwqK1skT", 
+        "truncated": false
+    }, 
+    "statuses_count": 4483, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/r6RCH9xEl0", 
+    "utc_offset": -14400, 
+    "verified": false
+}

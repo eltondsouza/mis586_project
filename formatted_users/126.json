@@ -1,0 +1,98 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Jul 12 17:30:36 +0000 2011", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Upgrading money @circlebits. @WilliamsCollege & @Harvard Alum. I love technology, food, and mummies. #bitcoin", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "linkedin.com/in/mariabtucke\u2026", 
+                    "expanded_url": "http://www.linkedin.com/in/mariabtucker/", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/mp2Hgbhf8D"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 19, 
+    "follow_request_sent": false, 
+    "followers_count": 5521, 
+    "following": true, 
+    "friends_count": 355, 
+    "geo_enabled": true, 
+    "id": 334161392, 
+    "id_str": "334161392", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 55, 
+    "location": "Boston, MA", 
+    "name": "Maria Tucker", 
+    "notifications": false, 
+    "profile_background_color": "C4FF57", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577326775/x351facd5f3171d6d568cfb1b8464924.png", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577326775/x351facd5f3171d6d568cfb1b8464924.png", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/334161392/1398197008", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/472399229114007552/BGzGA0Ei_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/472399229114007552/BGzGA0Ei_normal.jpeg", 
+    "profile_link_color": "FF00BB", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "7E4588", 
+    "profile_text_color": "D0A7C5", 
+    "profile_use_background_image": false, 
+    "protected": false, 
+    "screen_name": "mariatucker3", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Sep 04 18:48:37 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 882839082, 
+                    "id_str": "882839082", 
+                    "indices": [
+                        0, 
+                        12
+                    ], 
+                    "name": "Angelica", 
+                    "screen_name": "jellytuck13"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507601140385468416, 
+        "id_str": "507601140385468416", 
+        "in_reply_to_screen_name": "jellytuck13", 
+        "in_reply_to_status_id": 507600956305833986, 
+        "in_reply_to_status_id_str": "507600956305833986", 
+        "in_reply_to_user_id": 882839082, 
+        "in_reply_to_user_id_str": "882839082", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@jellytuck13 heading your way, dude.", 
+        "truncated": false
+    }, 
+    "statuses_count": 1743, 
+    "time_zone": "Arizona", 
+    "url": "http://t.co/mp2Hgbhf8D", 
+    "utc_offset": -25200, 
+    "verified": false
+}

@@ -1,0 +1,95 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Apr 13 16:03:48 +0000 2014", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "professional crypto trader, technical analyst, bot developer. DM me for TA tutoring or portfolio management. bitfinex referral code: 02UP1UFPdl", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 806, 
+    "follow_request_sent": false, 
+    "followers_count": 761, 
+    "following": true, 
+    "friends_count": 132, 
+    "geo_enabled": false, 
+    "id": 2441910085, 
+    "id_str": "2441910085", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 25, 
+    "location": "", 
+    "name": "Cryptonomics", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2441910085/1399606864", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/483061125710217216/0gTrCOHx_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/483061125710217216/0gTrCOHx_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "RTGzx10r", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 18:32:25 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 2595164142, 
+                    "id_str": "2595164142", 
+                    "indices": [
+                        0, 
+                        14
+                    ], 
+                    "name": "Jay Jay", 
+                    "screen_name": "VeryVeriViral"
+                }, 
+                {
+                    "id": 2655040964, 
+                    "id_str": "2655040964", 
+                    "indices": [
+                        15, 
+                        29
+                    ], 
+                    "name": "Vericoin Price", 
+                    "screen_name": "vericoinprice"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508321838036840448, 
+        "id_str": "508321838036840448", 
+        "in_reply_to_screen_name": "VeryVeriViral", 
+        "in_reply_to_status_id": 508321466417676288, 
+        "in_reply_to_status_id_str": "508321466417676288", 
+        "in_reply_to_user_id": 2595164142, 
+        "in_reply_to_user_id_str": "2595164142", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@VeryVeriViral @vericoinprice i read that irc chat. you're doing a great job for the community thank you!", 
+        "truncated": false
+    }, 
+    "statuses_count": 1953, 
+    "time_zone": "Arizona", 
+    "url": null, 
+    "utc_offset": -25200, 
+    "verified": false
+}

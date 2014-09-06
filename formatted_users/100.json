@@ -1,0 +1,105 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Jun 24 00:31:07 +0000 2014", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Gamer and #Cryptocurrency enthusiast, #BTC, #MIN, #VRC, #DOGE , #PINK  \r\n18SwMmKYN3zoFrLeFHxnrnfzi1BY423J5k", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "cryptogab.com", 
+                    "expanded_url": "http://cryptogab.com/", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/NNzYNlhY3a"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 1396, 
+    "follow_request_sent": false, 
+    "followers_count": 944, 
+    "following": true, 
+    "friends_count": 632, 
+    "geo_enabled": false, 
+    "id": 2584810652, 
+    "id_str": "2584810652", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 18, 
+    "location": "", 
+    "name": "Pebbelzz", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/481236903589470208/FNoxgfIm_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/481236903589470208/FNoxgfIm_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "Pebb3lzz", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 18:33:07 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        26, 
+                        35
+                    ], 
+                    "text": "bitcoins"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "goo.gl/jrKW5V", 
+                    "expanded_url": "http://goo.gl/jrKW5V", 
+                    "indices": [
+                        74, 
+                        96
+                    ], 
+                    "url": "http://t.co/SVIR3d8D4Y"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508322015908868097, 
+        "id_str": "508322015908868097", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>", 
+        "text": "The growing popularity of #bitcoins reaches out to universities globally  http://t.co/SVIR3d8D4Y", 
+        "truncated": false
+    }, 
+    "statuses_count": 3765, 
+    "time_zone": null, 
+    "url": "http://t.co/NNzYNlhY3a", 
+    "utc_offset": null, 
+    "verified": false
+}

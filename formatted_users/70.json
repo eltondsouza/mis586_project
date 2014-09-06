@@ -1,0 +1,209 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Jul 25 19:40:07 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "LOVE #ZeroHedge, #Crypto's, and #Education.  World's BEST Mom.\n #homeschooling #unschooling #autodidact #NVC #Casheer \nCome chat : http://t.co/MmyPwSZanl.", 
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "display_url": "Forum.Casheer.net", 
+                    "expanded_url": "http://Forum.Casheer.net", 
+                    "indices": [
+                        131, 
+                        153
+                    ], 
+                    "url": "http://t.co/MmyPwSZanl"
+                }
+            ]
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "casheer.net", 
+                    "expanded_url": "http://casheer.net", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/pvHaRNUZoP"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 707, 
+    "follow_request_sent": false, 
+    "followers_count": 1445, 
+    "following": false, 
+    "friends_count": 1589, 
+    "geo_enabled": false, 
+    "id": 2680350607, 
+    "id_str": "2680350607", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 9, 
+    "location": "Detroit, MI", 
+    "name": "Tiffany", 
+    "notifications": false, 
+    "profile_background_color": "000000", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497902966301401088/qArm25m6.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497902966301401088/qArm25m6.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2680350607/1408980130", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/507358350342758402/Jl3BzEIL_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/507358350342758402/Jl3BzEIL_normal.jpeg", 
+    "profile_link_color": "B8C5C6", 
+    "profile_sidebar_border_color": "4A66C1", 
+    "profile_sidebar_fill_color": "0E0E0E", 
+    "profile_text_color": "4A66C1", 
+    "profile_use_background_image": false, 
+    "protected": false, 
+    "screen_name": "haydentiff", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 18:25:17 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        36, 
+                        45
+                    ], 
+                    "text": "NEOSCOIN"
+                }, 
+                {
+                    "indices": [
+                        110, 
+                        113
+                    ], 
+                    "text": "RT"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "forum.casheer.net/viewtopic.php?\u2026", 
+                    "expanded_url": "http://forum.casheer.net/viewtopic.php?f=15&t=129", 
+                    "indices": [
+                        76, 
+                        98
+                    ], 
+                    "url": "http://t.co/3UQaW5rCVs"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2309346044, 
+                    "id_str": "2309346044", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Vindyne8", 
+                    "screen_name": "Vindyne8"
+                }, 
+                {
+                    "id": 2617660668, 
+                    "id_str": "2617660668", 
+                    "indices": [
+                        49, 
+                        58
+                    ], 
+                    "name": "Casheer", 
+                    "screen_name": "Casheer2"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508320044523487232, 
+        "id_str": "508320044523487232", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 3, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 16:33:17 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            22, 
+                            31
+                        ], 
+                        "text": "NEOSCOIN"
+                    }, 
+                    {
+                        "indices": [
+                            96, 
+                            99
+                        ], 
+                        "text": "RT"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "forum.casheer.net/viewtopic.php?\u2026", 
+                        "expanded_url": "http://forum.casheer.net/viewtopic.php?f=15&t=129", 
+                        "indices": [
+                            62, 
+                            84
+                        ], 
+                        "url": "http://t.co/3UQaW5rCVs"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2617660668, 
+                        "id_str": "2617660668", 
+                        "indices": [
+                            35, 
+                            44
+                        ], 
+                        "name": "Casheer", 
+                        "screen_name": "Casheer2"
+                    }
+                ]
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508291860386054144, 
+            "id_str": "508291860386054144", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Show your support for #NEOSCOIN on @Casheer2 Make a post here http://t.co/3UQaW5rCVs  Push it!  #RT", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @Vindyne8: Show your support for #NEOSCOIN on @Casheer2 Make a post here http://t.co/3UQaW5rCVs  Push it!  #RT", 
+        "truncated": false
+    }, 
+    "statuses_count": 642, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/pvHaRNUZoP", 
+    "utc_offset": -14400, 
+    "verified": false
+}

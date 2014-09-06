@@ -1,0 +1,93 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Mar 09 03:54:59 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Crypto Currency Trader..                     \u201cBe \u2014 don't try to become\u201d ..My Mask is Jim...great actor and human!", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 1204, 
+    "follow_request_sent": false, 
+    "followers_count": 440, 
+    "following": true, 
+    "friends_count": 260, 
+    "geo_enabled": false, 
+    "id": 2379768630, 
+    "id_str": "2379768630", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 10, 
+    "location": "", 
+    "name": "M\u0394gUra", 
+    "notifications": false, 
+    "profile_background_color": "0D40DB", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507826093630296064/Hxw3t8Ty.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507826093630296064/Hxw3t8Ty.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2379768630/1407360491", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/504691059733966848/sAuqIRwf_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/504691059733966848/sAuqIRwf_normal.jpeg", 
+    "profile_link_color": "048F04", 
+    "profile_sidebar_border_color": "000000", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "magaura11", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 18:11:16 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        24, 
+                        29
+                    ], 
+                    "text": "BOOM"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 1769946114, 
+                    "id_str": "1769946114", 
+                    "indices": [
+                        0, 
+                        11
+                    ], 
+                    "name": "\u0e3fTC Enigma", 
+                    "screen_name": "BTCEnigma1"
+                }
+            ]
+        }, 
+        "favorite_count": 1, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508316515821944832, 
+        "id_str": "508316515821944832", 
+        "in_reply_to_screen_name": "BTCEnigma1", 
+        "in_reply_to_status_id": 508315976119898112, 
+        "in_reply_to_status_id_str": "508315976119898112", 
+        "in_reply_to_user_id": 1769946114, 
+        "in_reply_to_user_id_str": "1769946114", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@BTCEnigma1 nice uptade #BOOM ..I think we'll see 2k very soon..", 
+        "truncated": false
+    }, 
+    "statuses_count": 2121, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}

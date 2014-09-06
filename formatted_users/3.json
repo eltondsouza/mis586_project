@@ -1,0 +1,142 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Apr 07 15:19:56 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Starting, Accelerating, and Investing in Digital Currency (Bitcoin et al) Companies", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "brockpierce.org", 
+                    "expanded_url": "http://www.brockpierce.org", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/USWHwt83PE"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 351, 
+    "follow_request_sent": false, 
+    "followers_count": 7198, 
+    "following": true, 
+    "friends_count": 501, 
+    "geo_enabled": false, 
+    "id": 29468585, 
+    "id_str": "29468585", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 138, 
+    "location": "Global", 
+    "name": "Brock Pierce", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/93264718/594145773_8.jpg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/93264718/594145773_8.jpg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29468585/1400875558", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/833698099/ScreenHunter_02_Apr._12_13.27_normal.jpg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/833698099/ScreenHunter_02_Apr._12_13.27_normal.jpg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "brockpierce", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 10:58:06 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        125, 
+                        134
+                    ], 
+                    "text": "BoxWorks"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 110578761, 
+                    "id_str": "110578761", 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "name": "Grant Shirk", 
+                    "screen_name": "grantshirk"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508207509450928128, 
+        "id_str": "508207509450928128", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 11, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Sep 04 23:35:33 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            109, 
+                            118
+                        ], 
+                        "text": "BoxWorks"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 7, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507673350856900609, 
+            "id_str": "507673350856900609", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "retweet_count": 11, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+            "text": "David Bray: \"Standards are like toothbrushes. Everybody wants one, but nobody wants to use somebody else's.\" #BoxWorks", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @grantshirk: David Bray: \"Standards are like toothbrushes. Everybody wants one, but nobody wants to use somebody else's.\" #BoxWorks", 
+        "truncated": false
+    }, 
+    "statuses_count": 4567, 
+    "time_zone": "Alaska", 
+    "url": "http://t.co/USWHwt83PE", 
+    "utc_offset": -28800, 
+    "verified": false
+}

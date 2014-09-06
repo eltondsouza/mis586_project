@@ -1,0 +1,108 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Mon Nov 18 12:23:08 +0000 2013", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Cryptocurrency Pundit, Scoundrel, Director of @BlocktechGroup, CEO of @BlocktechFin and I am free because I am always myself.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "altmarket.com", 
+                    "expanded_url": "http://altmarket.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/XZwJqb8TEr"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 13658, 
+    "follow_request_sent": false, 
+    "followers_count": 7497, 
+    "following": true, 
+    "friends_count": 2551, 
+    "geo_enabled": true, 
+    "id": 2201220235, 
+    "id_str": "2201220235", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 231, 
+    "location": "My views are my own. CA, USA", 
+    "name": "Bryce Weiner", 
+    "notifications": false, 
+    "profile_background_color": "022330", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2201220235/1399196957", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/497191799467687937/puqq-tf8_normal.png", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/497191799467687937/puqq-tf8_normal.png", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "A8C7F7", 
+    "profile_sidebar_fill_color": "C0DFEC", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "BryceWeiner", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 06:34:43 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 916257050, 
+                    "id_str": "916257050", 
+                    "indices": [
+                        0, 
+                        10
+                    ], 
+                    "name": "Angelo\u0e3fTC", 
+                    "screen_name": "AngeloBTC"
+                }, 
+                {
+                    "id": 2238411649, 
+                    "id_str": "2238411649", 
+                    "indices": [
+                        25, 
+                        35
+                    ], 
+                    "name": "ChangeTip", 
+                    "screen_name": "ChangeTip"
+                }
+            ]
+        }, 
+        "favorite_count": 1, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508141225569169408, 
+        "id_str": "508141225569169408", 
+        "in_reply_to_screen_name": "AngeloBTC", 
+        "in_reply_to_status_id": 508140334887350272, 
+        "in_reply_to_status_id_str": "508140334887350272", 
+        "in_reply_to_user_id": 916257050, 
+        "in_reply_to_user_id_str": "916257050", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@AngeloBTC gets a cookie @ChangeTip", 
+        "truncated": false
+    }, 
+    "statuses_count": 12921, 
+    "time_zone": null, 
+    "url": "http://t.co/XZwJqb8TEr", 
+    "utc_offset": null, 
+    "verified": false
+}

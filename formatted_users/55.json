@@ -1,0 +1,242 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Mon May 26 15:24:02 +0000 2008", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Product Manager/Co-Founder at @HelloSanta (now a @JibJab company). Entrepreneur, cryptocurrency enthusiast, husband, father, LA sports fan.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "about.me/jordan", 
+                    "expanded_url": "http://about.me/jordan", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/V5G3Dtm4VR"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 549, 
+    "follow_request_sent": false, 
+    "followers_count": 728, 
+    "following": true, 
+    "friends_count": 391, 
+    "geo_enabled": true, 
+    "id": 14910027, 
+    "id_str": "14910027", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 16, 
+    "location": "Los Angeles, CA", 
+    "name": "Jordan Lyall", 
+    "notifications": false, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14910027/1401896429", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3764101120/1fb66635415054e887f60c2510745ac9_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3764101120/1fb66635415054e887f60c2510745ac9_normal.jpeg", 
+    "profile_link_color": "006399", 
+    "profile_sidebar_border_color": "EEEEEE", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "JordanLyall", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Mon Sep 01 19:14:27 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        27, 
+                        35
+                    ], 
+                    "text": "stellar"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/V7itcs2mZk", 
+                    "expanded_url": "http://twitter.com/stellarSMS/status/506517704950312960/photo/1", 
+                    "id": 506517704321142784, 
+                    "id_str": "506517704321142784", 
+                    "indices": [
+                        105, 
+                        127
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/BweDKx6CEAA994E.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/BweDKx6CEAA994E.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 1024, 
+                            "resize": "fit", 
+                            "w": 576
+                        }, 
+                        "medium": {
+                            "h": 1024, 
+                            "resize": "fit", 
+                            "w": 576
+                        }, 
+                        "small": {
+                            "h": 604, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 506517704950312960, 
+                    "source_status_id_str": "506517704950312960", 
+                    "type": "photo", 
+                    "url": "http://t.co/V7itcs2mZk"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "stellarsms.co", 
+                    "expanded_url": "http://stellarsms.co", 
+                    "indices": [
+                        82, 
+                        104
+                    ], 
+                    "url": "http://t.co/HAyzhP7yPO"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2767081938, 
+                    "id_str": "2767081938", 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "name": "Stellar SMS", 
+                    "screen_name": "stellarSMS"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 506520476823203840, 
+        "id_str": "506520476823203840", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 5, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Sep 01 19:03:26 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            11, 
+                            19
+                        ], 
+                        "text": "stellar"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/V7itcs2mZk", 
+                        "expanded_url": "http://twitter.com/stellarSMS/status/506517704950312960/photo/1", 
+                        "id": 506517704321142784, 
+                        "id_str": "506517704321142784", 
+                        "indices": [
+                            89, 
+                            111
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/BweDKx6CEAA994E.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/BweDKx6CEAA994E.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 576
+                            }, 
+                            "medium": {
+                                "h": 1024, 
+                                "resize": "fit", 
+                                "w": 576
+                            }, 
+                            "small": {
+                                "h": 604, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "http://t.co/V7itcs2mZk"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "stellarsms.co", 
+                        "expanded_url": "http://stellarsms.co", 
+                        "indices": [
+                            66, 
+                            88
+                        ], 
+                        "url": "http://t.co/HAyzhP7yPO"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 13, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 506517704950312960, 
+            "id_str": "506517704950312960", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 5, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "text": "Check your #stellar balance or find up-to-the-minute pricing with http://t.co/HAyzhP7yPO http://t.co/V7itcs2mZk", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @stellarSMS: Check your #stellar balance or find up-to-the-minute pricing with http://t.co/HAyzhP7yPO http://t.co/V7itcs2mZk", 
+        "truncated": false
+    }, 
+    "statuses_count": 2149, 
+    "time_zone": "Pacific Time (US & Canada)", 
+    "url": "http://t.co/V5G3Dtm4VR", 
+    "utc_offset": -25200, 
+    "verified": false
+}

@@ -1,0 +1,148 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Thu Jul 30 06:58:21 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Toward peace, markets, and Bitcoin.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "MoneyAndState.com", 
+                    "expanded_url": "http://MoneyAndState.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/eLUb66DpZG"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 5, 
+    "follow_request_sent": false, 
+    "followers_count": 14292, 
+    "following": true, 
+    "friends_count": 2496, 
+    "geo_enabled": true, 
+    "id": 61417559, 
+    "id_str": "61417559", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 421, 
+    "location": "Panama City", 
+    "name": "Erik Voorhees", 
+    "notifications": false, 
+    "profile_background_color": "1F1F1F", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/491083136684392448/pxccTlqW.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/491083136684392448/pxccTlqW.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/61417559/1405918543", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/339147710/atlas_02-1_normal.jpg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/339147710/atlas_02-1_normal.jpg", 
+    "profile_link_color": "999999", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": false, 
+    "protected": false, 
+    "screen_name": "ErikVoorhees", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Wed Sep 03 19:33:44 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84, 
+                        92
+                    ], 
+                    "text": "Bitcoin"
+                }, 
+                {
+                    "indices": [
+                        93, 
+                        104
+                    ], 
+                    "text": "BitLicence"
+                }, 
+                {
+                    "indices": [
+                        105, 
+                        109
+                    ], 
+                    "text": "NYC"
+                }, 
+                {
+                    "indices": [
+                        110, 
+                        118
+                    ], 
+                    "text": "Finance"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "blog.xapo.com/post/965189893\u2026", 
+                    "expanded_url": "http://blog.xapo.com/post/96518989309/xapo-will-have-no-choice-but-to-block-new-york", 
+                    "indices": [
+                        61, 
+                        83
+                    ], 
+                    "url": "http://t.co/J4nTQamwgb"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 85863469, 
+                    "id_str": "85863469", 
+                    "indices": [
+                        119, 
+                        129
+                    ], 
+                    "name": "Ben Lawsky", 
+                    "screen_name": "BenLawsky"
+                }, 
+                {
+                    "id": 1888208708, 
+                    "id_str": "1888208708", 
+                    "indices": [
+                        130, 
+                        135
+                    ], 
+                    "name": "Xapo", 
+                    "screen_name": "xapo"
+                }
+            ]
+        }, 
+        "favorite_count": 15, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507250105645535233, 
+        "id_str": "507250105645535233", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 22, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "IP Blocking Policy:  North Korea, Iran, Cuba and\u2026 New York?  http://t.co/J4nTQamwgb #Bitcoin #BitLicence #NYC #Finance @BenLawsky @xapo", 
+        "truncated": false
+    }, 
+    "statuses_count": 3049, 
+    "time_zone": "Quito", 
+    "url": "http://t.co/eLUb66DpZG", 
+    "utc_offset": -18000, 
+    "verified": false
+}

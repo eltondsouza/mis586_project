@@ -1,0 +1,109 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Aug 04 12:35:44 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Managing editor at CoinDesk and occasional contributor at Forbes and This is Money. Former Google employee. Interested in all things bitcoin.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "coindesk.com/author/emily-s\u2026", 
+                    "expanded_url": "http://www.coindesk.com/author/emily-spaven/", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/OE3uZFb1c9"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 179, 
+    "follow_request_sent": false, 
+    "followers_count": 2303, 
+    "following": true, 
+    "friends_count": 401, 
+    "geo_enabled": true, 
+    "id": 62805324, 
+    "id_str": "62805324", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 118, 
+    "location": "London", 
+    "name": "Emily Spaven", 
+    "notifications": false, 
+    "profile_background_color": "EBEBEB", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/62805324/1353673075", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/474250408630566912/oyy82SwO_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/474250408630566912/oyy82SwO_normal.jpeg", 
+    "profile_link_color": "990000", 
+    "profile_sidebar_border_color": "DFDFDF", 
+    "profile_sidebar_fill_color": "F3F3F3", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "emilyspaven", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 16:53:46 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "dailym.ai/1Ag3QEv", 
+                    "expanded_url": "http://dailym.ai/1Ag3QEv", 
+                    "indices": [
+                        65, 
+                        87
+                    ], 
+                    "url": "http://t.co/eJx033FEnD"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 15438913, 
+                    "id_str": "15438913", 
+                    "indices": [
+                        92, 
+                        103
+                    ], 
+                    "name": "Daily Mail Online", 
+                    "screen_name": "MailOnline"
+                }
+            ]
+        }, 
+        "favorite_count": 1, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508297011989577728, 
+        "id_str": "508297011989577728", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "Banks DID intimidate customers with fake debt collection letters http://t.co/eJx033FEnD via @MailOnline", 
+        "truncated": false
+    }, 
+    "statuses_count": 2713, 
+    "time_zone": "London", 
+    "url": "http://t.co/OE3uZFb1c9", 
+    "utc_offset": 3600, 
+    "verified": false
+}

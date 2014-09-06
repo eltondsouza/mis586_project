@@ -1,0 +1,98 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Apr 28 14:21:37 +0000 2013", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Bitcoin hoarder, angel investor", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "onename.io/btcdrak", 
+                    "expanded_url": "http://onename.io/btcdrak", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/wowTA2O6k5"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 408, 
+    "follow_request_sent": false, 
+    "followers_count": 3675, 
+    "following": true, 
+    "friends_count": 421, 
+    "geo_enabled": false, 
+    "id": 1387081490, 
+    "id_str": "1387081490", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 105, 
+    "location": "crypto is my religion", 
+    "name": "\u0e3ftcDrak", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387081490/1369321756", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3699155119/0c4fdf13533e26c2b950c3f20ebd9a40_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3699155119/0c4fdf13533e26c2b950c3f20ebd9a40_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "btcdrak", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 17:08:18 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 2259434528, 
+                    "id_str": "2259434528", 
+                    "indices": [
+                        0, 
+                        13
+                    ], 
+                    "name": "CRYPTO CO\u0e3fAIN", 
+                    "screen_name": "CryptoCobain"
+                }
+            ]
+        }, 
+        "favorite_count": 5, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508300669577490432, 
+        "id_str": "508300669577490432", 
+        "in_reply_to_screen_name": "CryptoCobain", 
+        "in_reply_to_status_id": 508299537078042624, 
+        "in_reply_to_status_id_str": "508299537078042624", 
+        "in_reply_to_user_id": 2259434528, 
+        "in_reply_to_user_id_str": "2259434528", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "source": "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>", 
+        "text": "@CryptoCobain That awkward moment when a single coin has more volume than the entire exchange...", 
+        "truncated": false
+    }, 
+    "statuses_count": 3090, 
+    "time_zone": "Amsterdam", 
+    "url": "http://t.co/wowTA2O6k5", 
+    "utc_offset": 7200, 
+    "verified": false
+}

@@ -1,0 +1,86 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Jun 23 12:58:48 +0000 2007", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Founder @Trustatom, software engineer, cryptocurrency enthusiast.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "about.me/yrashk", 
+                    "expanded_url": "http://about.me/yrashk", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/llNAYUhU0u"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 274, 
+    "follow_request_sent": false, 
+    "followers_count": 1643, 
+    "following": true, 
+    "friends_count": 1634, 
+    "geo_enabled": true, 
+    "id": 7032912, 
+    "id_str": "7032912", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 111, 
+    "location": "Nelson, British Columbia", 
+    "name": "Yurii Rashkovskii", 
+    "notifications": false, 
+    "profile_background_color": "1A1B1F", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3364509666/969977d28e9ecebc942fe8ff591626d7_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3364509666/969977d28e9ecebc942fe8ff591626d7_normal.jpeg", 
+    "profile_link_color": "426975", 
+    "profile_sidebar_border_color": "181A1E", 
+    "profile_sidebar_fill_color": "252429", 
+    "profile_text_color": "666666", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "yrashk", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 07:21:49 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508153078269607936, 
+        "id_str": "508153078269607936", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Gotta love Norwegian for the free WiFi", 
+        "truncated": false
+    }, 
+    "statuses_count": 9617, 
+    "time_zone": "Pacific Time (US & Canada)", 
+    "url": "http://t.co/llNAYUhU0u", 
+    "utc_offset": -25200, 
+    "verified": false
+}

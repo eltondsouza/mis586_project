@@ -1,0 +1,185 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Apr 21 21:49:52 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "VP of Sales at BitPay and Co-Founder of Women In Bitcoin", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "bitpay.com", 
+                    "expanded_url": "http://bitpay.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/VmKVoPhnfs"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 151, 
+    "follow_request_sent": false, 
+    "followers_count": 1938, 
+    "following": true, 
+    "friends_count": 399, 
+    "geo_enabled": true, 
+    "id": 34056134, 
+    "id_str": "34056134", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 89, 
+    "location": "Los Angeles / San Francisco ", 
+    "name": "Paige Freeman", 
+    "notifications": false, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34056134/1405667674", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/473626684558544896/rinh1QHR_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/473626684558544896/rinh1QHR_normal.jpeg", 
+    "profile_link_color": "009999", 
+    "profile_sidebar_border_color": "EEEEEE", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "paigefreeman", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Aug 28 01:19:01 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        35, 
+                        43
+                    ], 
+                    "text": "bitcoin"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "cointelegraph.com/news/112375/10\u2026", 
+                    "expanded_url": "http://cointelegraph.com/news/112375/10-reasons-why-bitcoin-is-better-than-paypal?utm_source=twitterfeed&utm_medium=twitter", 
+                    "indices": [
+                        68, 
+                        90
+                    ], 
+                    "url": "http://t.co/93yN7iKRT3"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 1694861228, 
+                    "id_str": "1694861228", 
+                    "indices": [
+                        3, 
+                        18
+                    ], 
+                    "name": "WomenInBitcoin", 
+                    "screen_name": "WomenInBitcoin"
+                }, 
+                {
+                    "id": 30018058, 
+                    "id_str": "30018058", 
+                    "indices": [
+                        59, 
+                        66
+                    ], 
+                    "name": "PayPal", 
+                    "screen_name": "PayPal"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 504800286217478144, 
+        "id_str": "504800286217478144", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Aug 28 01:17:58 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            15, 
+                            23
+                        ], 
+                        "text": "bitcoin"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "cointelegraph.com/news/112375/10\u2026", 
+                        "expanded_url": "http://cointelegraph.com/news/112375/10-reasons-why-bitcoin-is-better-than-paypal?utm_source=twitterfeed&utm_medium=twitter", 
+                        "indices": [
+                            48, 
+                            70
+                        ], 
+                        "url": "http://t.co/93yN7iKRT3"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 30018058, 
+                        "id_str": "30018058", 
+                        "indices": [
+                            39, 
+                            46
+                        ], 
+                        "name": "PayPal", 
+                        "screen_name": "PayPal"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 504800023121375232, 
+            "id_str": "504800023121375232", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "10 reasons why #bitcoin is better than @PayPal. http://t.co/93yN7iKRT3", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @WomenInBitcoin: 10 reasons why #bitcoin is better than @PayPal. http://t.co/93yN7iKRT3", 
+        "truncated": false
+    }, 
+    "statuses_count": 367, 
+    "time_zone": "Pacific Time (US & Canada)", 
+    "url": "http://t.co/VmKVoPhnfs", 
+    "utc_offset": -25200, 
+    "verified": false
+}

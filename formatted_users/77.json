@@ -1,0 +1,98 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Jul 02 08:43:23 +0000 2013", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Founder: @EthereumProject #Ethereum, @KryptoKit, @Decentralca, #Bitcoin Decentral. Executive Director: @BitcoinAlliance", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "decentral.ca", 
+                    "expanded_url": "http://www.decentral.ca", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/ob1o848rlK"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 38, 
+    "follow_request_sent": false, 
+    "followers_count": 1925, 
+    "following": true, 
+    "friends_count": 825, 
+    "geo_enabled": true, 
+    "id": 1562625614, 
+    "id_str": "1562625614", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 71, 
+    "location": "Toronto, Canada", 
+    "name": "Anthony Di Iorio", 
+    "notifications": false, 
+    "profile_background_color": "FFFFFF", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562625614/1394722969", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/444125917841862656/IMAKNcaM_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/444125917841862656/IMAKNcaM_normal.jpeg", 
+    "profile_link_color": "B33000", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": false, 
+    "protected": false, 
+    "screen_name": "diiorioanthony", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Sep 04 22:13:46 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "entrepreneur.com/article/237026", 
+                    "expanded_url": "http://www.entrepreneur.com/article/237026", 
+                    "indices": [
+                        55, 
+                        77
+                    ], 
+                    "url": "http://t.co/JEy9gB4iEI"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 11, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507652770183122944, 
+        "id_str": "507652770183122944", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 3, 
+        "retweeted": false, 
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>", 
+        "text": "5 Reasons Merchants Should Start Accepting Bitcoin Now http://t.co/JEy9gB4iEI", 
+        "truncated": false
+    }, 
+    "statuses_count": 352, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/ob1o848rlK", 
+    "utc_offset": -14400, 
+    "verified": false
+}

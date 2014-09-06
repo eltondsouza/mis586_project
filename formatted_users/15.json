@@ -1,0 +1,85 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Feb 09 22:30:16 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Game of Cryptos | IT-Student | Austria | Young", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 31, 
+    "follow_request_sent": false, 
+    "followers_count": 90, 
+    "following": true, 
+    "friends_count": 191, 
+    "geo_enabled": false, 
+    "id": 2335741172, 
+    "id_str": "2335741172", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 3, 
+    "location": "VIE", 
+    "name": "Crypto Hodor", 
+    "notifications": false, 
+    "profile_background_color": "EBEBEB", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472155318751748096/Oek84-06.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472155318751748096/Oek84-06.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2335741172/1400792810", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/469584883321278465/anOBLQNH_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/469584883321278465/anOBLQNH_normal.jpeg", 
+    "profile_link_color": "990000", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "euvorio", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Tue Sep 02 17:21:48 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 1677650622, 
+                    "id_str": "1677650622", 
+                    "indices": [
+                        0, 
+                        12
+                    ], 
+                    "name": "cryp7oc4m3l", 
+                    "screen_name": "CryptoCamel"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 506854517582073857, 
+        "id_str": "506854517582073857", 
+        "in_reply_to_screen_name": "CryptoCamel", 
+        "in_reply_to_status_id": 506840431586729984, 
+        "in_reply_to_status_id_str": "506840431586729984", 
+        "in_reply_to_user_id": 1677650622, 
+        "in_reply_to_user_id_str": "1677650622", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@CryptoCamel In what will you invest your new btc now?", 
+        "truncated": false
+    }, 
+    "statuses_count": 696, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}

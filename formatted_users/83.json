@@ -1,0 +1,98 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Jan 11 20:25:23 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Developer, CryptoCurrency User, Technologist, #Darkcoin & #Litecoin, #MeteorJS dev, Founder/CEO @HindsSoft", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "hindssoft.com", 
+                    "expanded_url": "http://www.hindssoft.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/vn0Mhi75is"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 949, 
+    "follow_request_sent": false, 
+    "followers_count": 203, 
+    "following": true, 
+    "friends_count": 230, 
+    "geo_enabled": false, 
+    "id": 2287145203, 
+    "id_str": "2287145203", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 8, 
+    "location": "PVD", 
+    "name": "Rashard Hinds", 
+    "notifications": false, 
+    "profile_background_color": "022330", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166562890/nss9-2_O.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166562890/nss9-2_O.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2287145203/1389479327", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/488432087368622080/eYySmWqQ_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/488432087368622080/eYySmWqQ_normal.jpeg", 
+    "profile_link_color": "006BB3", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "C0DFEC", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "RashardHinds", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 17:44:42 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 253018453, 
+                    "id_str": "253018453", 
+                    "indices": [
+                        6, 
+                        15
+                    ], 
+                    "name": "Google Facts", 
+                    "screen_name": "Hollifbk"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508309830474690560, 
+        "id_str": "508309830474690560", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "Duh!! @Hollifbk: If someone takes time out of their day to help you for free, don't tell them to hurry up.", 
+        "truncated": false
+    }, 
+    "statuses_count": 2635, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/vn0Mhi75is", 
+    "utc_offset": -14400, 
+    "verified": false
+}

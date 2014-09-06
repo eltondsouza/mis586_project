@@ -1,0 +1,167 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Mon Sep 10 18:48:19 +0000 2012", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Cryptocurrency & Stock Trader, Internet Marketer & Downhill Skateboarder", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 166, 
+    "follow_request_sent": false, 
+    "followers_count": 2185, 
+    "following": true, 
+    "friends_count": 530, 
+    "geo_enabled": false, 
+    "id": 815803254, 
+    "id_str": "815803254", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 50, 
+    "location": "Toronto, Canada", 
+    "name": "Hev", 
+    "notifications": false, 
+    "profile_background_color": "000000", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656054587/8gsfilthlvlp72u41s5i.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656054587/8gsfilthlvlp72u41s5i.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/815803254/1401818689", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/457943956622286848/Vx0budoq_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/457943956622286848/Vx0budoq_normal.jpeg", 
+    "profile_link_color": "FF0000", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": false, 
+    "protected": false, 
+    "screen_name": "scotthev", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 15:45:44 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "BoomCoin"
+                }
+            ], 
+            "symbols": [
+                {
+                    "indices": [
+                        19, 
+                        24
+                    ], 
+                    "text": "BOOM"
+                }
+            ], 
+            "urls": [
+                {
+                    "display_url": "CleverHash.com", 
+                    "expanded_url": "http://CleverHash.com", 
+                    "indices": [
+                        104, 
+                        126
+                    ], 
+                    "url": "http://t.co/m86qj3jU0M"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2317594316, 
+                    "id_str": "2317594316", 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "name": "Mr Coins", 
+                    "screen_name": "CryptoDabbler"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508279892518387712, 
+        "id_str": "508279892518387712", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 6, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 14:51:25 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            129, 
+                            138
+                        ], 
+                        "text": "BoomCoin"
+                    }
+                ], 
+                "symbols": [
+                    {
+                        "indices": [
+                            0, 
+                            5
+                        ], 
+                        "text": "BOOM"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "display_url": "CleverHash.com", 
+                        "expanded_url": "http://CleverHash.com", 
+                        "indices": [
+                            85, 
+                            107
+                        ], 
+                        "url": "http://t.co/m86qj3jU0M"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508266225521020928, 
+            "id_str": "508266225521020928", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "$BOOM market cap of $80k, only 11m coins and a 6-man dev team, backed by a company - http://t.co/m86qj3jU0M. This price is NUTS! #BoomCoin", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @CryptoDabbler: $BOOM market cap of $80k, only 11m coins and a 6-man dev team, backed by a company - http://t.co/m86qj3jU0M. This price \u2026", 
+        "truncated": false
+    }, 
+    "statuses_count": 1248, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": null, 
+    "utc_offset": -14400, 
+    "verified": false
+}

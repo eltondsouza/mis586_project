@@ -1,0 +1,165 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Jan 08 22:53:06 +0000 2012", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "We are a fixed priced Bitcoin exchange service in Australia. Buy Bitcoins using cash at the bank in Australia (AUD) and New Zealand (NZD) or sell Bitcoins.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "ittybittyexchange.com", 
+                    "expanded_url": "http://www.ittybittyexchange.com/", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/cIGrqyhR0A"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 0, 
+    "follow_request_sent": false, 
+    "followers_count": 6401, 
+    "following": false, 
+    "friends_count": 3675, 
+    "geo_enabled": false, 
+    "id": 458769926, 
+    "id_str": "458769926", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 37, 
+    "location": "World", 
+    "name": "Bit Coin", 
+    "notifications": false, 
+    "profile_background_color": "FFFFFF", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086449617/2163538aaf9f6067992f6af8d0c8cd0f.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000086449617/2163538aaf9f6067992f6af8d0c8cd0f.jpeg", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000537009741/dcfa62181e3c485b13ae6ab50c736820_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000537009741/dcfa62181e3c485b13ae6ab50c736820_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "IttyBittyCoin", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Aug 21 21:05:51 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "99bitcoins.com/4-popular-post\u2026", 
+                    "expanded_url": "http://99bitcoins.com/4-popular-posts-bitcointalk/", 
+                    "indices": [
+                        49, 
+                        71
+                    ], 
+                    "url": "http://t.co/qlqiX8WOhq"
+                }, 
+                {
+                    "display_url": "bitcoinmagazine.com/14850/coin_art\u2026", 
+                    "expanded_url": "http://bitcoinmagazine.com/14850/coin_artists-latest-dark-wallet-puzzle-32-page-solution/", 
+                    "indices": [
+                        79, 
+                        101
+                    ], 
+                    "url": "http://t.co/tDqDerCwIe"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 361289499, 
+                    "id_str": "361289499", 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "name": "Bitcoin Magazine", 
+                    "screen_name": "BitcoinMagazine"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 502562245860425731, 
+        "id_str": "502562245860425731", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 6, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed Aug 20 20:02:12 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "99bitcoins.com/4-popular-post\u2026", 
+                        "expanded_url": "http://99bitcoins.com/4-popular-posts-bitcointalk/", 
+                        "indices": [
+                            28, 
+                            50
+                        ], 
+                        "url": "http://t.co/qlqiX8WOhq"
+                    }, 
+                    {
+                        "display_url": "bitcoinmagazine.com/14850/coin_art\u2026", 
+                        "expanded_url": "http://bitcoinmagazine.com/14850/coin_artists-latest-dark-wallet-puzzle-32-page-solution/", 
+                        "indices": [
+                            58, 
+                            80
+                        ], 
+                        "url": "http://t.co/tDqDerCwIe"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 502183840761520131, 
+            "id_str": "502183840761520131", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "We have the solution for #1 http://t.co/qlqiX8WOhq \n\nhere:http://t.co/tDqDerCwIe", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>", 
+        "text": "RT @BitcoinMagazine: We have the solution for #1 http://t.co/qlqiX8WOhq \n\nhere:http://t.co/tDqDerCwIe", 
+        "truncated": false
+    }, 
+    "statuses_count": 936, 
+    "time_zone": "Brisbane", 
+    "url": "http://t.co/cIGrqyhR0A", 
+    "utc_offset": 36000, 
+    "verified": false
+}

@@ -1,0 +1,134 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Apr 05 05:06:12 +0000 2013", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Your source for all news, tips, and tricks regarding #BitCoin", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 10, 
+    "follow_request_sent": false, 
+    "followers_count": 3905, 
+    "following": false, 
+    "friends_count": 416, 
+    "geo_enabled": false, 
+    "id": 1328406894, 
+    "id_str": "1328406894", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 99, 
+    "location": "", 
+    "name": "BitCoin Insider", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3495943629/2d11a75816487beb639fbe2f173892e8_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3495943629/2d11a75816487beb639fbe2f173892e8_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "BitCoinInsider", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Mon Mar 03 21:05:54 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "bit.ly/NNG2GG", 
+                    "expanded_url": "http://bit.ly/NNG2GG", 
+                    "indices": [
+                        77, 
+                        99
+                    ], 
+                    "url": "http://t.co/HUsQvMoIdQ"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 371934393, 
+                    "id_str": "371934393", 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "name": "BitCoin News", 
+                    "screen_name": "BTCNews247"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 440593932804579330, 
+        "id_str": "440593932804579330", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 6, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Mar 03 19:09:37 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "bit.ly/NNG2GG", 
+                        "expanded_url": "http://bit.ly/NNG2GG", 
+                        "indices": [
+                            61, 
+                            83
+                        ], 
+                        "url": "http://t.co/HUsQvMoIdQ"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 440564670085087232, 
+            "id_str": "440564670085087232", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 6, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>", 
+            "text": "6 Totally False Myths About Bitcoin Everyone Thinks Are True http://t.co/HUsQvMoIdQ", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @BTCNews247: 6 Totally False Myths About Bitcoin Everyone Thinks Are True http://t.co/HUsQvMoIdQ", 
+        "truncated": false
+    }, 
+    "statuses_count": 44, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}

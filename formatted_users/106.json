@@ -1,0 +1,169 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Jan 24 22:56:15 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "The coin is out there...be the coin!", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "cryptsy.com/users/register\u2026", 
+                    "expanded_url": "https://www.cryptsy.com/users/register?refid=69205", 
+                    "indices": [
+                        0, 
+                        23
+                    ], 
+                    "url": "https://t.co/QBWcXLxfU3"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 1015, 
+    "follow_request_sent": false, 
+    "followers_count": 3257, 
+    "following": true, 
+    "friends_count": 247, 
+    "geo_enabled": false, 
+    "id": 2309081983, 
+    "id_str": "2309081983", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 83, 
+    "location": "", 
+    "name": "Crypto Oracle", 
+    "notifications": false, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439373789722202112/YiOwzPRU.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439373789722202112/YiOwzPRU.jpeg", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2309081983/1393589785", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/467675539314978817/0naQcqwi_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/467675539314978817/0naQcqwi_normal.jpeg", 
+    "profile_link_color": "009999", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "CryptoOracle", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Thu Sep 04 18:34:03 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/XdhH7M31Nf", 
+                    "expanded_url": "http://twitter.com/magaura11/status/507592268287471616/photo/1", 
+                    "indices": [
+                        29, 
+                        51
+                    ], 
+                    "url": "http://t.co/XdhH7M31Nf"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2379768630, 
+                    "id_str": "2379768630", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "M\u0394gUra", 
+                    "screen_name": "magaura11"
+                }, 
+                {
+                    "id": 2309081983, 
+                    "id_str": "2309081983", 
+                    "indices": [
+                        15, 
+                        28
+                    ], 
+                    "name": "Crypto Oracle", 
+                    "screen_name": "CryptoOracle"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507597476157607936, 
+        "id_str": "507597476157607936", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "und", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Thu Sep 04 18:13:22 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/XdhH7M31Nf", 
+                        "expanded_url": "http://twitter.com/magaura11/status/507592268287471616/photo/1", 
+                        "indices": [
+                            14, 
+                            36
+                        ], 
+                        "url": "http://t.co/XdhH7M31Nf"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2309081983, 
+                        "id_str": "2309081983", 
+                        "indices": [
+                            0, 
+                            13
+                        ], 
+                        "name": "Crypto Oracle", 
+                        "screen_name": "CryptoOracle"
+                    }
+                ]
+            }, 
+            "favorite_count": 4, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507592268287471616, 
+            "id_str": "507592268287471616", 
+            "in_reply_to_screen_name": "CryptoOracle", 
+            "in_reply_to_status_id": 507591962103259136, 
+            "in_reply_to_status_id_str": "507591962103259136", 
+            "in_reply_to_user_id": 2309081983, 
+            "in_reply_to_user_id_str": "2309081983", 
+            "lang": "und", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 2, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "@CryptoOracle http://t.co/XdhH7M31Nf", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @magaura11: @CryptoOracle http://t.co/XdhH7M31Nf", 
+        "truncated": false
+    }, 
+    "statuses_count": 2066, 
+    "time_zone": "Lisbon", 
+    "url": "https://t.co/QBWcXLxfU3", 
+    "utc_offset": 3600, 
+    "verified": false
+}

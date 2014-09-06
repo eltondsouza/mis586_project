@@ -1,0 +1,95 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Mon Aug 25 21:42:10 +0000 2014", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Professional economist and forex trader. Leveraged trading and liquidity swaps. Marketwatch 24/7 365 BTC/ALTS. DYOR.  Thanks Satoshi", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 34, 
+    "follow_request_sent": false, 
+    "followers_count": 3614, 
+    "following": true, 
+    "friends_count": 2139, 
+    "geo_enabled": false, 
+    "id": 2768000832, 
+    "id_str": "2768000832", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 2, 
+    "location": "Investment Citadel", 
+    "name": "Crypto God", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2768000832/1409382406", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/505611816211206144/pw0w6WfS_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/505611816211206144/pw0w6WfS_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "Cryptology101", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 17:18:59 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 2360105966, 
+                    "id_str": "2360105966", 
+                    "indices": [
+                        0, 
+                        9
+                    ], 
+                    "name": "Gw3", 
+                    "screen_name": "smokin35"
+                }, 
+                {
+                    "id": 2272208143, 
+                    "id_str": "2272208143", 
+                    "indices": [
+                        10, 
+                        20
+                    ], 
+                    "name": "Moolah", 
+                    "screen_name": "moolah_io"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508303360609767424, 
+        "id_str": "508303360609767424", 
+        "in_reply_to_screen_name": "smokin35", 
+        "in_reply_to_status_id": 508302660664299520, 
+        "in_reply_to_status_id_str": "508302660664299520", 
+        "in_reply_to_user_id": 2360105966, 
+        "in_reply_to_user_id_str": "2360105966", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@smokin35 @moolah_io should they rather take the hit themselves of paying a code reviewer? nah, I think that lies with the dev to sort out.", 
+        "truncated": false
+    }, 
+    "statuses_count": 459, 
+    "time_zone": "Ljubljana", 
+    "url": null, 
+    "utc_offset": 7200, 
+    "verified": false
+}

@@ -1,0 +1,148 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Jan 11 12:13:30 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "I tweet about #Bitcoin and Bitcoin-related ventures or events, in France & abroad. Writer & Editor @Bitcoinomie, #freelancer Analytics & Conversion specialist.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "Bitcoinomie.fr", 
+                    "expanded_url": "http://www.Bitcoinomie.fr", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/VkBmQISlpD"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 67, 
+    "follow_request_sent": false, 
+    "followers_count": 371, 
+    "following": true, 
+    "friends_count": 886, 
+    "geo_enabled": true, 
+    "id": 2286545720, 
+    "id_str": "2286545720", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "fr", 
+    "listed_count": 13, 
+    "location": "Paris", 
+    "name": "Victor Mertz", 
+    "notifications": false, 
+    "profile_background_color": "000000", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444779277892866048/5PeBx9gj.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444779277892866048/5PeBx9gj.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2286545720/1398264220", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/421981431183577088/0OB_D1c5_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/421981431183577088/0OB_D1c5_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "VictorMertz", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Fri Sep 05 18:37:03 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "e-ducat.fr/comment-gagner\u2026", 
+                    "expanded_url": "http://www.e-ducat.fr/comment-gagner-50-milliards-par-an/", 
+                    "indices": [
+                        54, 
+                        76
+                    ], 
+                    "url": "http://t.co/eca0PDyPmz"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2397706092, 
+                    "id_str": "2397706092", 
+                    "indices": [
+                        3, 
+                        16
+                    ], 
+                    "name": "Pierre Noizat", 
+                    "screen_name": "PierreNoizat"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507960616926339072, 
+        "id_str": "507960616926339072", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "fr", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 4, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Sep 05 16:36:22 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "e-ducat.fr/comment-gagner\u2026", 
+                        "expanded_url": "http://www.e-ducat.fr/comment-gagner-50-milliards-par-an/", 
+                        "indices": [
+                            36, 
+                            58
+                        ], 
+                        "url": "http://t.co/eca0PDyPmz"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507930245215682560, 
+            "id_str": "507930245215682560", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "fr", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 4, 
+            "retweeted": false, 
+            "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>", 
+            "text": "Comment gagner 50 milliards par an  http://t.co/eca0PDyPmz", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @PierreNoizat: Comment gagner 50 milliards par an  http://t.co/eca0PDyPmz", 
+        "truncated": false
+    }, 
+    "statuses_count": 444, 
+    "time_zone": "Paris", 
+    "url": "http://t.co/VkBmQISlpD", 
+    "utc_offset": 7200, 
+    "verified": false
+}

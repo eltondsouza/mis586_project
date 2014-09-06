@@ -1,0 +1,142 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Sep 15 15:06:04 +0000 2013", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Crypto-currency miner, investor, entrepreneur.\nBTC:1KJvXNKebQQgZQRQRkL289aA4YsNYUTUc7", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "kriptonovac.wordpress.com", 
+                    "expanded_url": "http://kriptonovac.wordpress.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/3wzjIPcLIk"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 452, 
+    "follow_request_sent": false, 
+    "followers_count": 553, 
+    "following": true, 
+    "friends_count": 529, 
+    "geo_enabled": false, 
+    "id": 1868074730, 
+    "id_str": "1868074730", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 18, 
+    "location": "", 
+    "name": "Kriptoniks", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000079283602/b9dfaa90927a9678a114953dbd7da1f1.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000079283602/b9dfaa90927a9678a114953dbd7da1f1.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868074730/1398289809", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/459685280648138754/B2d6iOUj_normal.png", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/459685280648138754/B2d6iOUj_normal.png", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "Kriptonovac", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Mon Jul 14 12:31:29 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        45, 
+                        53
+                    ], 
+                    "text": "bitcoin"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 1387081490, 
+                    "id_str": "1387081490", 
+                    "indices": [
+                        3, 
+                        11
+                    ], 
+                    "name": "\u0e3ftcDrak", 
+                    "screen_name": "btcdrak"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 488662062881845250, 
+        "id_str": "488662062881845250", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 5, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Jul 14 12:27:45 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            32, 
+                            40
+                        ], 
+                        "text": "bitcoin"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 3, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 488661124196614144, 
+            "id_str": "488661124196614144", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "retweet_count": 5, 
+            "retweeted": false, 
+            "source": "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>", 
+            "text": "The year is 5PG, (post genesis) #bitcoin. AD is old history.", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @btcdrak: The year is 5PG, (post genesis) #bitcoin. AD is old history.", 
+        "truncated": false
+    }, 
+    "statuses_count": 1591, 
+    "time_zone": "Athens", 
+    "url": "http://t.co/3wzjIPcLIk", 
+    "utc_offset": 10800, 
+    "verified": false
+}

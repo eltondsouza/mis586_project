@@ -1,0 +1,202 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri May 15 10:59:14 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "CEO of a managed hosting company and A-brand marketing specialist / expertise. Early Crypto currency interest, investor and adopter.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 128, 
+    "follow_request_sent": false, 
+    "followers_count": 842, 
+    "following": true, 
+    "friends_count": 142, 
+    "geo_enabled": false, 
+    "id": 40217798, 
+    "id_str": "40217798", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "nl", 
+    "listed_count": 19, 
+    "location": "Netherlands, Amsterdam", 
+    "name": "CryptoCoinNL", 
+    "notifications": false, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/40217798/1404386421", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/484656672871161856/N3P4Fjg8_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/484656672871161856/N3P4Fjg8_normal.jpeg", 
+    "profile_link_color": "509955", 
+    "profile_sidebar_border_color": "EEEEEE", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "CryptoCoinNL", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 18:46:01 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        130, 
+                        133
+                    ], 
+                    "text": "GB"
+                }, 
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "Altcoin"
+                }
+            ], 
+            "symbols": [
+                {
+                    "indices": [
+                        134, 
+                        137
+                    ], 
+                    "text": "GB"
+                }
+            ], 
+            "urls": [
+                {
+                    "display_url": "go.shr.lc/Wqtzgc", 
+                    "expanded_url": "http://go.shr.lc/Wqtzgc", 
+                    "indices": [
+                        92, 
+                        114
+                    ], 
+                    "url": "http://t.co/3fA5hXK8uI"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 278154986, 
+                    "id_str": "278154986", 
+                    "indices": [
+                        3, 
+                        11
+                    ], 
+                    "name": "Jean-Pierre Buntinx", 
+                    "screen_name": "jdebunt"
+                }, 
+                {
+                    "id": 2654370114, 
+                    "id_str": "2654370114", 
+                    "indices": [
+                        115, 
+                        129
+                    ], 
+                    "name": "Greenbacks (GB)", 
+                    "screen_name": "GreenBacksDev"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508325260505387008, 
+        "id_str": "508325260505387008", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 10, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 17:45:01 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            117, 
+                            120
+                        ], 
+                        "text": "GB"
+                    }, 
+                    {
+                        "indices": [
+                            125, 
+                            133
+                        ], 
+                        "text": "Altcoin"
+                    }
+                ], 
+                "symbols": [
+                    {
+                        "indices": [
+                            121, 
+                            124
+                        ], 
+                        "text": "GB"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "display_url": "go.shr.lc/Wqtzgc", 
+                        "expanded_url": "http://go.shr.lc/Wqtzgc", 
+                        "indices": [
+                            79, 
+                            101
+                        ], 
+                        "url": "http://t.co/3fA5hXK8uI"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2654370114, 
+                        "id_str": "2654370114", 
+                        "indices": [
+                            102, 
+                            116
+                        ], 
+                        "name": "Greenbacks (GB)", 
+                        "screen_name": "GreenBacksDev"
+                    }
+                ]
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508309913198936064, 
+            "id_str": "508309913198936064", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 10, 
+            "retweeted": false, 
+            "source": "<a href=\"http://www.shareaholic.com\" rel=\"nofollow\">shareaholic</a>", 
+            "text": "GreenBacks Crowdfunding Platform To Be Released Today, New Features Announced  http://t.co/3fA5hXK8uI @GreenBacksDev #GB $GB #Altcoin", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @jdebunt: GreenBacks Crowdfunding Platform To Be Released Today, New Features Announced  http://t.co/3fA5hXK8uI @GreenBacksDev #GB $GB #\u2026", 
+        "truncated": false
+    }, 
+    "statuses_count": 2448, 
+    "time_zone": "Amsterdam", 
+    "url": null, 
+    "utc_offset": 7200, 
+    "verified": false
+}

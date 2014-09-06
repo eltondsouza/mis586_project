@@ -1,0 +1,270 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun May 18 20:36:14 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Crypto Enthusiat | Dream Chaser The universe is under no obligation to make sense to you.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "crypto.pink", 
+                    "expanded_url": "http://crypto.pink/", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/ofpvwNahlD"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 559, 
+    "follow_request_sent": false, 
+    "followers_count": 405, 
+    "following": true, 
+    "friends_count": 203, 
+    "geo_enabled": false, 
+    "id": 2505478057, 
+    "id_str": "2505478057", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 8, 
+    "location": "my reality", 
+    "name": "Crypto Rox", 
+    "notifications": false, 
+    "profile_background_color": "202121", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497192378692681728/eImPN1xS.png", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497192378692681728/eImPN1xS.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2505478057/1407374729", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/497058543388733440/QhL_E66M_normal.png", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/497058543388733440/QhL_E66M_normal.png", 
+    "profile_link_color": "FF3C9B", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "F6F6F6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "CryptoRox", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 17:32:12 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        44, 
+                        48
+                    ], 
+                    "text": "win"
+                }, 
+                {
+                    "indices": [
+                        72, 
+                        81
+                    ], 
+                    "text": "giveaway"
+                }, 
+                {
+                    "indices": [
+                        82, 
+                        90
+                    ], 
+                    "text": "bitcoin"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/cnQkpFXpuT", 
+                    "expanded_url": "http://twitter.com/CoinWarz/status/506484493096456192/photo/1", 
+                    "id": 506484492190507008, 
+                    "id_str": "506484492190507008", 
+                    "indices": [
+                        114, 
+                        136
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/Bwdk9lFCYAAn-dZ.png", 
+                    "media_url_https": "https://pbs.twimg.com/media/Bwdk9lFCYAAn-dZ.png", 
+                    "sizes": {
+                        "large": {
+                            "h": 435, 
+                            "resize": "fit", 
+                            "w": 698
+                        }, 
+                        "medium": {
+                            "h": 374, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 212, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 506484493096456192, 
+                    "source_status_id_str": "506484493096456192", 
+                    "type": "photo", 
+                    "url": "http://t.co/cnQkpFXpuT"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "bitly.com/1pdsoYb", 
+                    "expanded_url": "http://bitly.com/1pdsoYb", 
+                    "indices": [
+                        91, 
+                        113
+                    ], 
+                    "url": "http://t.co/NwX7YCvyb7"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 1416245712, 
+                    "id_str": "1416245712", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "CoinWarz", 
+                    "screen_name": "CoinWarz"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508306685086400512, 
+        "id_str": "508306685086400512", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 439, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Mon Sep 01 16:51:27 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            30, 
+                            34
+                        ], 
+                        "text": "win"
+                    }, 
+                    {
+                        "indices": [
+                            58, 
+                            67
+                        ], 
+                        "text": "giveaway"
+                    }, 
+                    {
+                        "indices": [
+                            68, 
+                            76
+                        ], 
+                        "text": "bitcoin"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/cnQkpFXpuT", 
+                        "expanded_url": "http://twitter.com/CoinWarz/status/506484493096456192/photo/1", 
+                        "id": 506484492190507008, 
+                        "id_str": "506484492190507008", 
+                        "indices": [
+                            100, 
+                            122
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/Bwdk9lFCYAAn-dZ.png", 
+                        "media_url_https": "https://pbs.twimg.com/media/Bwdk9lFCYAAn-dZ.png", 
+                        "sizes": {
+                            "large": {
+                                "h": 435, 
+                                "resize": "fit", 
+                                "w": 698
+                            }, 
+                            "medium": {
+                                "h": 374, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 212, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "http://t.co/cnQkpFXpuT"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "bitly.com/1pdsoYb", 
+                        "expanded_url": "http://bitly.com/1pdsoYb", 
+                        "indices": [
+                            77, 
+                            99
+                        ], 
+                        "url": "http://t.co/NwX7YCvyb7"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 100, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 506484493096456192, 
+            "id_str": "506484493096456192", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 439, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Follow and RT for a chance to #win a 2.5 GH/s USB Miner.  #giveaway #bitcoin http://t.co/NwX7YCvyb7 http://t.co/cnQkpFXpuT", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @CoinWarz: Follow and RT for a chance to #win a 2.5 GH/s USB Miner.  #giveaway #bitcoin http://t.co/NwX7YCvyb7 http://t.co/cnQkpFXpuT", 
+        "truncated": false
+    }, 
+    "statuses_count": 1711, 
+    "time_zone": null, 
+    "url": "http://t.co/ofpvwNahlD", 
+    "utc_offset": null, 
+    "verified": false
+}

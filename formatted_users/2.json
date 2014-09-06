@@ -1,0 +1,137 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Thu May 06 16:47:05 +0000 2010", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Editor-in-Chief of http://t.co/Fb2NrM3FEg. VeriCoin developer. #RutgersU alum.", 
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "display_url": "pnosker.com", 
+                    "expanded_url": "http://pnosker.com", 
+                    "indices": [
+                        19, 
+                        41
+                    ], 
+                    "url": "http://t.co/Fb2NrM3FEg"
+                }
+            ]
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "pnosker.com", 
+                    "expanded_url": "http://www.pnosker.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/Be0ia5TO1L"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 136, 
+    "follow_request_sent": false, 
+    "followers_count": 2062, 
+    "following": true, 
+    "friends_count": 434, 
+    "geo_enabled": true, 
+    "id": 140892663, 
+    "id_str": "140892663", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 63, 
+    "location": "New Brunswick, NJ", 
+    "name": "Patrick Nosker", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/490629075703447552/9q7Ql6B0_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/490629075703447552/9q7Ql6B0_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "pnosker", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 13:06:39 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 2595164142, 
+                    "id_str": "2595164142", 
+                    "indices": [
+                        0, 
+                        14
+                    ], 
+                    "name": "Jay Jay", 
+                    "screen_name": "VeryVeriViral"
+                }, 
+                {
+                    "id": 40217798, 
+                    "id_str": "40217798", 
+                    "indices": [
+                        15, 
+                        28
+                    ], 
+                    "name": "CryptoCoinNL", 
+                    "screen_name": "CryptoCoinNL"
+                }, 
+                {
+                    "id": 2662304102, 
+                    "id_str": "2662304102", 
+                    "indices": [
+                        29, 
+                        39
+                    ], 
+                    "name": "jl777 news", 
+                    "screen_name": "Jl777News"
+                }, 
+                {
+                    "id": 2436257148, 
+                    "id_str": "2436257148", 
+                    "indices": [
+                        40, 
+                        49
+                    ], 
+                    "name": "VeriCoin", 
+                    "screen_name": "VeriCoin"
+                }
+            ]
+        }, 
+        "favorite_count": 5, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508239858423590912, 
+        "id_str": "508239858423590912", 
+        "in_reply_to_screen_name": "VeryVeriViral", 
+        "in_reply_to_status_id": 508198982527774720, 
+        "in_reply_to_status_id_str": "508198982527774720", 
+        "in_reply_to_user_id": 2595164142, 
+        "in_reply_to_user_id_str": "2595164142", 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@VeryVeriViral @CryptoCoinNL @Jl777News @VeriCoin it's not expensive. It's an option, not a gift.", 
+        "truncated": false
+    }, 
+    "statuses_count": 3231, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/Be0ia5TO1L", 
+    "utc_offset": -14400, 
+    "verified": false
+}

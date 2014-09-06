@@ -1,0 +1,243 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Jan 31 07:08:26 +0000 2014", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Half Crypto, Half Asian, Part Time Miner, and searching for the next big Crypto Coin. #CAIx (POD - Proof of Developer online below)", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "cryptoasian.com", 
+                    "expanded_url": "http://www.cryptoasian.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/6C0CsYkgr6"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 1536, 
+    "follow_request_sent": false, 
+    "followers_count": 2780, 
+    "following": true, 
+    "friends_count": 765, 
+    "geo_enabled": false, 
+    "id": 2315539361, 
+    "id_str": "2315539361", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 66, 
+    "location": "", 
+    "name": "Crypto Asian", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2315539361/1406575350", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/444157701610696704/VlJDGZ-Y_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/444157701610696704/VlJDGZ-Y_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "CryptoAsian", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 11:56:05 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        26, 
+                        30
+                    ], 
+                    "text": "RZR"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/AULt4CgrUP", 
+                    "expanded_url": "http://twitter.com/CryptoEthan/status/508098288441380864/photo/1", 
+                    "id": 508098287442747392, 
+                    "id_str": "508098287442747392", 
+                    "indices": [
+                        44, 
+                        66
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/Bw0gs04CYAAYkb_.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/Bw0gs04CYAAYkb_.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 480, 
+                            "resize": "fit", 
+                            "w": 640
+                        }, 
+                        "medium": {
+                            "h": 450, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 255, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 508098288441380864, 
+                    "source_status_id_str": "508098288441380864", 
+                    "type": "photo", 
+                    "url": "http://t.co/AULt4CgrUP"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 1361039118, 
+                    "id_str": "1361039118", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Ethan", 
+                    "screen_name": "CryptoEthan"
+                }, 
+                {
+                    "id": 2315539361, 
+                    "id_str": "2315539361", 
+                    "indices": [
+                        31, 
+                        43
+                    ], 
+                    "name": "Crypto Asian", 
+                    "screen_name": "CryptoAsian"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508222097945272320, 
+        "id_str": "508222097945272320", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 3, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 03:44:06 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            9, 
+                            13
+                        ], 
+                        "text": "RZR"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/AULt4CgrUP", 
+                        "expanded_url": "http://twitter.com/CryptoEthan/status/508098288441380864/photo/1", 
+                        "id": 508098287442747392, 
+                        "id_str": "508098287442747392", 
+                        "indices": [
+                            27, 
+                            49
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/Bw0gs04CYAAYkb_.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/Bw0gs04CYAAYkb_.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 480, 
+                                "resize": "fit", 
+                                "w": 640
+                            }, 
+                            "medium": {
+                                "h": 450, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 255, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "http://t.co/AULt4CgrUP"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 2315539361, 
+                        "id_str": "2315539361", 
+                        "indices": [
+                            14, 
+                            26
+                        ], 
+                        "name": "Crypto Asian", 
+                        "screen_name": "CryptoAsian"
+                    }
+                ]
+            }, 
+            "favorite_count": 2, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508098288441380864, 
+            "id_str": "508098288441380864", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 3, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "Lovin it #RZR @CryptoAsian http://t.co/AULt4CgrUP", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @CryptoEthan: Lovin it #RZR @CryptoAsian http://t.co/AULt4CgrUP", 
+        "truncated": false
+    }, 
+    "statuses_count": 5282, 
+    "time_zone": null, 
+    "url": "http://t.co/6C0CsYkgr6", 
+    "utc_offset": null, 
+    "verified": false
+}

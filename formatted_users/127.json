@@ -1,0 +1,337 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Aug 03 20:53:47 +0000 2012", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Founder at Self Synthesize! Mad after #Bitcoin and #Cryptocurrency. Love life and its juicy curvy ride!!", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "selfsynthesize.com", 
+                    "expanded_url": "http://selfsynthesize.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/c9ireEB3AJ"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 526, 
+    "follow_request_sent": false, 
+    "followers_count": 554, 
+    "following": true, 
+    "friends_count": 522, 
+    "geo_enabled": true, 
+    "id": 735523747, 
+    "id_str": "735523747", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 28, 
+    "location": "Dallas, Texas", 
+    "name": "Lisa Jaya Waters", 
+    "notifications": false, 
+    "profile_background_color": "EBEBEB", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/735523747/1408315599", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2885935681/1c3c6092013621e8cf49f167be1563aa_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2885935681/1c3c6092013621e8cf49f167be1563aa_normal.jpeg", 
+    "profile_link_color": "990000", 
+    "profile_sidebar_border_color": "DFDFDF", 
+    "profile_sidebar_fill_color": "F3F3F3", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "lisawwaters", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Fri Sep 05 16:56:13 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        15, 
+                        23
+                    ], 
+                    "text": "Bitcoin"
+                }, 
+                {
+                    "indices": [
+                        24, 
+                        27
+                    ], 
+                    "text": "FF"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 2256561481, 
+                    "id_str": "2256561481", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "Bleutrade", 
+                    "screen_name": "Bleutrade"
+                }, 
+                {
+                    "id": 735523747, 
+                    "id_str": "735523747", 
+                    "indices": [
+                        28, 
+                        40
+                    ], 
+                    "name": "Lisa Jaya Waters", 
+                    "screen_name": "lisawwaters"
+                }, 
+                {
+                    "id": 490808869, 
+                    "id_str": "490808869", 
+                    "indices": [
+                        41, 
+                        53
+                    ], 
+                    "name": "Alessandra prosperi ", 
+                    "screen_name": "theblonde82"
+                }, 
+                {
+                    "id": 1389006715, 
+                    "id_str": "1389006715", 
+                    "indices": [
+                        54, 
+                        68
+                    ], 
+                    "name": "BitcoinWisdom", 
+                    "screen_name": "BitcoinWisdom"
+                }, 
+                {
+                    "id": 2256561481, 
+                    "id_str": "2256561481", 
+                    "indices": [
+                        69, 
+                        79
+                    ], 
+                    "name": "Bleutrade", 
+                    "screen_name": "Bleutrade"
+                }, 
+                {
+                    "id": 2234376966, 
+                    "id_str": "2234376966", 
+                    "indices": [
+                        80, 
+                        90
+                    ], 
+                    "name": "MinerDesk", 
+                    "screen_name": "minerdesk"
+                }, 
+                {
+                    "id": 2584810652, 
+                    "id_str": "2584810652", 
+                    "indices": [
+                        91, 
+                        100
+                    ], 
+                    "name": "Pebbelzz", 
+                    "screen_name": "Pebb3lzz"
+                }, 
+                {
+                    "id": 2567515646, 
+                    "id_str": "2567515646", 
+                    "indices": [
+                        101, 
+                        114
+                    ], 
+                    "name": "KingMilkfart", 
+                    "screen_name": "KingMilkfart"
+                }, 
+                {
+                    "id": 172006123, 
+                    "id_str": "172006123", 
+                    "indices": [
+                        115, 
+                        130
+                    ], 
+                    "name": "MsCrypto", 
+                    "screen_name": "MsCryptoTrader"
+                }, 
+                {
+                    "id": 1557008785, 
+                    "id_str": "1557008785", 
+                    "indices": [
+                        131, 
+                        140
+                    ], 
+                    "name": "ZeroBlock", 
+                    "screen_name": "zeroblock"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507935244364697600, 
+        "id_str": "507935244364697600", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "und", 
+        "place": null, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Sep 05 16:44:25 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0, 
+                            8
+                        ], 
+                        "text": "Bitcoin"
+                    }, 
+                    {
+                        "indices": [
+                            9, 
+                            12
+                        ], 
+                        "text": "FF"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": [
+                    {
+                        "id": 735523747, 
+                        "id_str": "735523747", 
+                        "indices": [
+                            13, 
+                            25
+                        ], 
+                        "name": "Lisa Jaya Waters", 
+                        "screen_name": "lisawwaters"
+                    }, 
+                    {
+                        "id": 490808869, 
+                        "id_str": "490808869", 
+                        "indices": [
+                            26, 
+                            38
+                        ], 
+                        "name": "Alessandra prosperi ", 
+                        "screen_name": "theblonde82"
+                    }, 
+                    {
+                        "id": 1389006715, 
+                        "id_str": "1389006715", 
+                        "indices": [
+                            39, 
+                            53
+                        ], 
+                        "name": "BitcoinWisdom", 
+                        "screen_name": "BitcoinWisdom"
+                    }, 
+                    {
+                        "id": 2256561481, 
+                        "id_str": "2256561481", 
+                        "indices": [
+                            54, 
+                            64
+                        ], 
+                        "name": "Bleutrade", 
+                        "screen_name": "Bleutrade"
+                    }, 
+                    {
+                        "id": 2234376966, 
+                        "id_str": "2234376966", 
+                        "indices": [
+                            65, 
+                            75
+                        ], 
+                        "name": "MinerDesk", 
+                        "screen_name": "minerdesk"
+                    }, 
+                    {
+                        "id": 2584810652, 
+                        "id_str": "2584810652", 
+                        "indices": [
+                            76, 
+                            85
+                        ], 
+                        "name": "Pebbelzz", 
+                        "screen_name": "Pebb3lzz"
+                    }, 
+                    {
+                        "id": 2567515646, 
+                        "id_str": "2567515646", 
+                        "indices": [
+                            86, 
+                            99
+                        ], 
+                        "name": "KingMilkfart", 
+                        "screen_name": "KingMilkfart"
+                    }, 
+                    {
+                        "id": 172006123, 
+                        "id_str": "172006123", 
+                        "indices": [
+                            100, 
+                            115
+                        ], 
+                        "name": "MsCrypto", 
+                        "screen_name": "MsCryptoTrader"
+                    }, 
+                    {
+                        "id": 1557008785, 
+                        "id_str": "1557008785", 
+                        "indices": [
+                            116, 
+                            126
+                        ], 
+                        "name": "ZeroBlock", 
+                        "screen_name": "zeroblock"
+                    }
+                ]
+            }, 
+            "favorite_count": 0, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507932275070488578, 
+            "id_str": "507932275070488578", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "und", 
+            "place": null, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "text": "#Bitcoin #FF @lisawwaters @theblonde82 @BitcoinWisdom @Bleutrade @minerdesk @Pebb3lzz @KingMilkfart @MsCryptoTrader @zeroblock", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @Bleutrade: #Bitcoin #FF @lisawwaters @theblonde82 @BitcoinWisdom @Bleutrade @minerdesk @Pebb3lzz @KingMilkfart @MsCryptoTrader @zeroblo\u2026", 
+        "truncated": false
+    }, 
+    "statuses_count": 5587, 
+    "time_zone": null, 
+    "url": "http://t.co/c9ireEB3AJ", 
+    "utc_offset": null, 
+    "verified": false
+}

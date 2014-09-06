@@ -1,0 +1,106 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Wed Sep 05 13:45:21 +0000 2012", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "I explore stuff. Studying computer science. Cryptocurrency developer.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "lukemitchell.co", 
+                    "expanded_url": "http://lukemitchell.co", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/WVUHvKg7Sl"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 96, 
+    "follow_request_sent": false, 
+    "followers_count": 1728, 
+    "following": true, 
+    "friends_count": 371, 
+    "geo_enabled": false, 
+    "id": 804633782, 
+    "id_str": "804633782", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 49, 
+    "location": "UK", 
+    "name": "Luke Crypto", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/804633782/1388942627", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000409154604/e87c120168748ca5ccd7e1b766ba618a_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000409154604/e87c120168748ca5ccd7e1b766ba618a_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "LukeCrypto", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Tue Sep 02 14:48:58 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        37, 
+                        45
+                    ], 
+                    "text": "Bitcoin"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "gist.github.com/lukem512/9b272\u2026", 
+                    "expanded_url": "https://gist.github.com/lukem512/9b272bd35e2cdefbf386", 
+                    "indices": [
+                        56, 
+                        79
+                    ], 
+                    "url": "https://t.co/9wKkLwsMoo"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 2, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 506816055650832384, 
+        "id_str": "506816055650832384", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "Generating alert tests in the latest #Bitcoin codebase: https://t.co/9wKkLwsMoo", 
+        "truncated": false
+    }, 
+    "statuses_count": 178, 
+    "time_zone": "London", 
+    "url": "http://t.co/WVUHvKg7Sl", 
+    "utc_offset": 3600, 
+    "verified": false
+}

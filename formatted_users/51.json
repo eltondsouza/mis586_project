@@ -1,0 +1,107 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Tue Jul 12 15:24:08 +0000 2011", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "My interests are business, social media, technology, cryptocurrency, altcoin, cats, and my beautiful wife #TeamProCoin @Hezaa777", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 117, 
+    "follow_request_sent": false, 
+    "followers_count": 3770, 
+    "following": true, 
+    "friends_count": 894, 
+    "geo_enabled": false, 
+    "id": 334090417, 
+    "id_str": "334090417", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 66, 
+    "location": "Northeast Ohio, USA", 
+    "name": "Darren McLaughlin", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456399253691047936/0Pz5c08D.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456399253691047936/0Pz5c08D.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/334090417/1397648882", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1442268293/darrenbc_normal.JPG", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442268293/darrenbc_normal.JPG", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "DarrenMan777", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 14:12:58 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        7, 
+                        16
+                    ], 
+                    "text": "Altcoins"
+                }, 
+                {
+                    "indices": [
+                        19, 
+                        34
+                    ], 
+                    "text": "Cryptocurrency"
+                }, 
+                {
+                    "indices": [
+                        68, 
+                        76
+                    ], 
+                    "text": "Altcoin"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "alth.co/KvvA6", 
+                    "expanded_url": "https://alth.co/KvvA6", 
+                    "indices": [
+                        86, 
+                        109
+                    ], 
+                    "url": "https://t.co/3tr30S4Cyw"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 1, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508256545290072064, 
+        "id_str": "508256545290072064", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "text": "Forget #Altcoins - #Cryptocurrency Ecosystems Are The Way Forward - #Altcoin Herald - https://t.co/3tr30S4Cyw", 
+        "truncated": false
+    }, 
+    "statuses_count": 9366, 
+    "time_zone": "Atlantic Time (Canada)", 
+    "url": null, 
+    "utc_offset": -10800, 
+    "verified": false
+}

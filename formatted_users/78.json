@@ -1,0 +1,95 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Mar 16 11:02:50 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Author of cryptocrrency millionaire. The ultimate cryptocurrency trading, strategy bible.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "Cryptocurrencymillionaire.com", 
+                    "expanded_url": "http://Cryptocurrencymillionaire.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/JlBx3Oduai"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 5, 
+    "follow_request_sent": false, 
+    "followers_count": 5583, 
+    "following": true, 
+    "friends_count": 2317, 
+    "geo_enabled": false, 
+    "id": 2392531752, 
+    "id_str": "2392531752", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 11, 
+    "location": "In the blockchain", 
+    "name": "Jason Darkcoin Bear", 
+    "notifications": false, 
+    "profile_background_color": "000000", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464919651277737984/_SC6L3EL.png", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464919651277737984/_SC6L3EL.png", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2392531752/1399679924", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/473816328344584192/7-qSgkb-_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/473816328344584192/7-qSgkb-_normal.jpeg", 
+    "profile_link_color": "E60032", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "cryptomillion", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Fri Jul 18 00:14:52 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        31, 
+                        45
+                    ], 
+                    "text": "getbacktowork"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 489926239205859328, 
+        "id_str": "489926239205859328", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "I need to stop being so, lazy. #getbacktowork", 
+        "truncated": false
+    }, 
+    "statuses_count": 235, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/JlBx3Oduai", 
+    "utc_offset": -14400, 
+    "verified": false
+}

@@ -1,0 +1,256 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Fri Aug 29 12:07:38 +0000 2014", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Inspecting and Reporting on all aspects of #Bitcoin and #Cryptocurrency.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 4, 
+    "follow_request_sent": false, 
+    "followers_count": 355, 
+    "following": true, 
+    "friends_count": 830, 
+    "geo_enabled": false, 
+    "id": 2778320166, 
+    "id_str": "2778320166", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 0, 
+    "location": "", 
+    "name": "Inspector Bitcoin", 
+    "notifications": false, 
+    "profile_background_color": "8F9394", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505387109910208512/CGd9sDmJ.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505387109910208512/CGd9sDmJ.jpeg", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2778320166/1409316392", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/505333227779670016/o_qwL2fY_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/505333227779670016/o_qwL2fY_normal.jpeg", 
+    "profile_link_color": "C5C8C9", 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "InspectorCoin", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Wed Sep 03 15:48:13 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "uapp.ly", 
+                    "expanded_url": "http://uapp.ly", 
+                    "indices": [
+                        118, 
+                        140
+                    ], 
+                    "url": "http://t.co/WaJlD38IKj"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2754340104, 
+                    "id_str": "2754340104", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Easy A", 
+                    "screen_name": "easyA808"
+                }, 
+                {
+                    "id": 2746235753, 
+                    "id_str": "2746235753", 
+                    "indices": [
+                        15, 
+                        31
+                    ], 
+                    "name": "SpanishGAMER", 
+                    "screen_name": "SpanishGamercod"
+                }, 
+                {
+                    "id": 34368882, 
+                    "id_str": "34368882", 
+                    "indices": [
+                        32, 
+                        46
+                    ], 
+                    "name": "Gerald's Greenery\u00ae", 
+                    "screen_name": "shivmo_shanks"
+                }, 
+                {
+                    "id": 2614489186, 
+                    "id_str": "2614489186", 
+                    "indices": [
+                        47, 
+                        60
+                    ], 
+                    "name": "Teri Karnas", 
+                    "screen_name": "terikarnas70"
+                }, 
+                {
+                    "id": 33918928, 
+                    "id_str": "33918928", 
+                    "indices": [
+                        61, 
+                        75
+                    ], 
+                    "name": "50EAST RECORDS", 
+                    "screen_name": "50eastrecords"
+                }, 
+                {
+                    "id": 2778320166, 
+                    "id_str": "2778320166", 
+                    "indices": [
+                        76, 
+                        90
+                    ], 
+                    "name": "Inspector Bitcoin", 
+                    "screen_name": "InspectorCoin"
+                }, 
+                {
+                    "id": 2416397492, 
+                    "id_str": "2416397492", 
+                    "indices": [
+                        91, 
+                        105
+                    ], 
+                    "name": "Carmen Andreou", 
+                    "screen_name": "carmenandreou"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507193352551694336, 
+        "id_str": "507193352551694336", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Wed Sep 03 03:26:26 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "uapp.ly", 
+                        "expanded_url": "http://uapp.ly", 
+                        "indices": [
+                            104, 
+                            126
+                        ], 
+                        "url": "http://t.co/WaJlD38IKj"
+                    }
+                ], 
+                "user_mentions": [
+                    {
+                        "id": 2746235753, 
+                        "id_str": "2746235753", 
+                        "indices": [
+                            1, 
+                            17
+                        ], 
+                        "name": "SpanishGAMER", 
+                        "screen_name": "SpanishGamercod"
+                    }, 
+                    {
+                        "id": 34368882, 
+                        "id_str": "34368882", 
+                        "indices": [
+                            18, 
+                            32
+                        ], 
+                        "name": "Gerald's Greenery\u00ae", 
+                        "screen_name": "shivmo_shanks"
+                    }, 
+                    {
+                        "id": 2614489186, 
+                        "id_str": "2614489186", 
+                        "indices": [
+                            33, 
+                            46
+                        ], 
+                        "name": "Teri Karnas", 
+                        "screen_name": "terikarnas70"
+                    }, 
+                    {
+                        "id": 33918928, 
+                        "id_str": "33918928", 
+                        "indices": [
+                            47, 
+                            61
+                        ], 
+                        "name": "50EAST RECORDS", 
+                        "screen_name": "50eastrecords"
+                    }, 
+                    {
+                        "id": 2778320166, 
+                        "id_str": "2778320166", 
+                        "indices": [
+                            62, 
+                            76
+                        ], 
+                        "name": "Inspector Bitcoin", 
+                        "screen_name": "InspectorCoin"
+                    }, 
+                    {
+                        "id": 2416397492, 
+                        "id_str": "2416397492", 
+                        "indices": [
+                            77, 
+                            91
+                        ], 
+                        "name": "Carmen Andreou", 
+                        "screen_name": "carmenandreou"
+                    }
+                ]
+            }, 
+            "favorite_count": 1, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507006677434908672, 
+            "id_str": "507006677434908672", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 1, 
+            "retweeted": false, 
+            "source": "<a href=\"http://unfollowers.com\" rel=\"nofollow\">Unfollowers.me</a>", 
+            "text": "\"@SpanishGamercod @shivmo_shanks @terikarnas70 @50eastrecords @InspectorCoin @carmenandreou Thanks\" via http://t.co/WaJlD38IKj", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @easyA808: \"@SpanishGamercod @shivmo_shanks @terikarnas70 @50eastrecords @InspectorCoin @carmenandreou Thanks\" via http://t.co/WaJlD38IKj", 
+        "truncated": false
+    }, 
+    "statuses_count": 53, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}

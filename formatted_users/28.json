@@ -1,0 +1,124 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Apr 19 19:37:33 +0000 2008", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "CEO @socialradius, founded @Marketwire, co-founded #BitAngels;  viral & social marketing, tech #PR, wine/cheese/bacon lover", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "socialradius.com", 
+                    "expanded_url": "http://www.socialradius.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/XiH2l7b6Rp"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 184, 
+    "follow_request_sent": false, 
+    "followers_count": 26007, 
+    "following": true, 
+    "friends_count": 15444, 
+    "geo_enabled": true, 
+    "id": 14445920, 
+    "id_str": "14445920", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 824, 
+    "location": "Las Vegas - LA - SF - NYC - EU", 
+    "name": "Michael Terpin", 
+    "notifications": false, 
+    "profile_background_color": "642D8B", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/55619714/after_tower_profile.jpg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/55619714/after_tower_profile.jpg", 
+    "profile_background_tile": true, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14445920/1400424134", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/468039127678476288/3oq69oBC_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/468039127678476288/3oq69oBC_normal.jpeg", 
+    "profile_link_color": "FF7700", 
+    "profile_sidebar_border_color": "65B0DA", 
+    "profile_sidebar_fill_color": "7AC3EE", 
+    "profile_text_color": "3D1957", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "michaelterpin", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Fri Sep 05 19:10:11 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        77, 
+                        86
+                    ], 
+                    "text": "startups"
+                }, 
+                {
+                    "indices": [
+                        87, 
+                        100
+                    ], 
+                    "text": "SiliconBeach"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "on.recode.net/1pxAGud", 
+                    "expanded_url": "http://on.recode.net/1pxAGud", 
+                    "indices": [
+                        42, 
+                        64
+                    ], 
+                    "url": "http://t.co/jWbW91l9WJ"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2244340904, 
+                    "id_str": "2244340904", 
+                    "indices": [
+                        69, 
+                        76
+                    ], 
+                    "name": "Re/code", 
+                    "screen_name": "Recode"
+                }
+            ]
+        }, 
+        "favorite_count": 2, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 507968955051278336, 
+        "id_str": "507968955051278336", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 2, 
+        "retweeted": false, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "LA's tech startup scene is coming of age: http://t.co/jWbW91l9WJ via @Recode #startups #SiliconBeach", 
+        "truncated": false
+    }, 
+    "statuses_count": 5875, 
+    "time_zone": "Pacific Time (US & Canada)", 
+    "url": "http://t.co/XiH2l7b6Rp", 
+    "utc_offset": -25200, 
+    "verified": false
+}

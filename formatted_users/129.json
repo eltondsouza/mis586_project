@@ -1,0 +1,87 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun Jan 18 01:53:03 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Bitcoiner, traveler & freedom loving techno geek.  Founder of Atlantic Financial & Boston Gulf Advisors Group.   Board member of the Bitcoin Association.", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "Facebook.com/BruceFentonPage", 
+                    "expanded_url": "http://Facebook.com/BruceFentonPage", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/QBJ9QlVnZD"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 124, 
+    "follow_request_sent": false, 
+    "followers_count": 5133, 
+    "following": true, 
+    "friends_count": 507, 
+    "geo_enabled": false, 
+    "id": 19132398, 
+    "id_str": "19132398", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 79, 
+    "location": "Boston USA and Riyadh KSA", 
+    "name": "Bruce Fenton", 
+    "notifications": false, 
+    "profile_background_color": "1A1B1F", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/371487107/DSC_0041__2_.JPG", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/371487107/DSC_0041__2_.JPG", 
+    "profile_background_tile": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19132398/1400450553", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/199237238/bruce_fenton_economic_strategist_2_normal.jpg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/199237238/bruce_fenton_economic_strategist_2_normal.jpg", 
+    "profile_link_color": "2FC2EF", 
+    "profile_sidebar_border_color": "181A1E", 
+    "profile_sidebar_fill_color": "252429", 
+    "profile_text_color": "666666", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "brucefenton", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 17:27:44 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": []
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508305560442515456, 
+        "id_str": "508305560442515456", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 1, 
+        "retweeted": false, 
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>", 
+        "text": "Stand not against crime, for crime is whatever the politicians say it is.  Instead stand against evil.", 
+        "truncated": false
+    }, 
+    "statuses_count": 4094, 
+    "time_zone": "Eastern Time (US & Canada)", 
+    "url": "http://t.co/QBJ9QlVnZD", 
+    "utc_offset": -14400, 
+    "verified": false
+}

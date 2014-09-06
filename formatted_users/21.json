@@ -1,0 +1,265 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Wed Oct 24 13:08:44 +0000 2012", 
+    "default_profile": true, 
+    "default_profile_image": false, 
+    "description": "Dando a conocer Bitcoin en Espa\u00f1a y Venezuela | contacto@bitcoinvenezuela.com | bitcoin:1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | @cafebitcoin http://t.co/SXnEUtLCuO", 
+    "entities": {
+        "description": {
+            "urls": [
+                {
+                    "display_url": "cafebitcoin.com", 
+                    "expanded_url": "http://cafebitcoin.com", 
+                    "indices": [
+                        137, 
+                        159
+                    ], 
+                    "url": "http://t.co/SXnEUtLCuO"
+                }
+            ]
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "bitcoinvenezuela.com", 
+                    "expanded_url": "http://bitcoinvenezuela.com", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/1QNxngGiXV"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 115, 
+    "follow_request_sent": false, 
+    "followers_count": 2480, 
+    "following": true, 
+    "friends_count": 1400, 
+    "geo_enabled": false, 
+    "id": 901796180, 
+    "id_str": "901796180", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "es", 
+    "listed_count": 73, 
+    "location": "Venezuela y Espa\u00f1a", 
+    "name": "Bitcoin Venezuela", 
+    "notifications": false, 
+    "profile_background_color": "C0DEED", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/480114353791074304/JYNF69Wy_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/480114353791074304/JYNF69Wy_normal.jpeg", 
+    "profile_link_color": "0084B4", 
+    "profile_sidebar_border_color": "C0DEED", 
+    "profile_sidebar_fill_color": "DDEEF6", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "btcven", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 14:19:14 +0000 2014", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        117, 
+                        126
+                    ], 
+                    "text": "dogecoin"
+                }, 
+                {
+                    "indices": [
+                        127, 
+                        132
+                    ], 
+                    "text": "doge"
+                }
+            ], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/deekEvSuDt", 
+                    "expanded_url": "http://twitter.com/CoinTelegraph/status/507962742746005505/photo/1", 
+                    "id": 507962741391237120, 
+                    "id_str": "507962741391237120", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "media_url": "http://pbs.twimg.com/media/BwylbAfCIAAeDtB.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/media/BwylbAfCIAAeDtB.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 466, 
+                            "resize": "fit", 
+                            "w": 700
+                        }, 
+                        "medium": {
+                            "h": 399, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 226, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 507962742746005505, 
+                    "source_status_id_str": "507962742746005505", 
+                    "type": "photo", 
+                    "url": "http://t.co/deekEvSuDt"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "goo.gl/YPiJvo", 
+                    "expanded_url": "http://goo.gl/YPiJvo", 
+                    "indices": [
+                        94, 
+                        116
+                    ], 
+                    "url": "http://t.co/BKkTt3PbrM"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 2207129125, 
+                    "id_str": "2207129125", 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "name": "The CoinTelegraph", 
+                    "screen_name": "CoinTelegraph"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508258122969120768, 
+        "id_str": "508258122969120768", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "possibly_sensitive": false, 
+        "retweet_count": 81, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Fri Sep 05 18:45:30 +0000 2014", 
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            98, 
+                            107
+                        ], 
+                        "text": "dogecoin"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            113
+                        ], 
+                        "text": "doge"
+                    }
+                ], 
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/deekEvSuDt", 
+                        "expanded_url": "http://twitter.com/CoinTelegraph/status/507962742746005505/photo/1", 
+                        "id": 507962741391237120, 
+                        "id_str": "507962741391237120", 
+                        "indices": [
+                            114, 
+                            136
+                        ], 
+                        "media_url": "http://pbs.twimg.com/media/BwylbAfCIAAeDtB.jpg", 
+                        "media_url_https": "https://pbs.twimg.com/media/BwylbAfCIAAeDtB.jpg", 
+                        "sizes": {
+                            "large": {
+                                "h": 466, 
+                                "resize": "fit", 
+                                "w": 700
+                            }, 
+                            "medium": {
+                                "h": 399, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "small": {
+                                "h": 226, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "type": "photo", 
+                        "url": "http://t.co/deekEvSuDt"
+                    }
+                ], 
+                "symbols": [], 
+                "urls": [
+                    {
+                        "display_url": "goo.gl/YPiJvo", 
+                        "expanded_url": "http://goo.gl/YPiJvo", 
+                        "indices": [
+                            75, 
+                            97
+                        ], 
+                        "url": "http://t.co/BKkTt3PbrM"
+                    }
+                ], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 13, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 507962742746005505, 
+            "id_str": "507962742746005505", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "possibly_sensitive": false, 
+            "retweet_count": 81, 
+            "retweeted": false, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "text": "The Curious Case of the Rebounding DOGE \u2013 Businesses And Consumers Split - http://t.co/BKkTt3PbrM #dogecoin #doge http://t.co/deekEvSuDt", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "text": "RT @CoinTelegraph: The Curious Case of the Rebounding DOGE \u2013 Businesses And Consumers Split - http://t.co/BKkTt3PbrM #dogecoin #doge http:/\u2026", 
+        "truncated": false
+    }, 
+    "statuses_count": 1766, 
+    "time_zone": "Madrid", 
+    "url": "http://t.co/1QNxngGiXV", 
+    "utc_offset": 7200, 
+    "verified": false
+}

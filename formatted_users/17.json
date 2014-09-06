@@ -1,0 +1,97 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sun May 06 09:50:04 +0000 2012", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Libertarian, entrepreneur, Bitcoin enthusiast. Co-founder and CEO @ Bitstamp", 
+    "entities": {
+        "description": {
+            "urls": []
+        }, 
+        "url": {
+            "urls": [
+                {
+                    "display_url": "bitstamp.net", 
+                    "expanded_url": "http://www.bitstamp.net", 
+                    "indices": [
+                        0, 
+                        22
+                    ], 
+                    "url": "http://t.co/DTvNCKKJ82"
+                }
+            ]
+        }
+    }, 
+    "favourites_count": 3, 
+    "follow_request_sent": false, 
+    "followers_count": 2463, 
+    "following": true, 
+    "friends_count": 48, 
+    "geo_enabled": false, 
+    "id": 572478728, 
+    "id_str": "572478728", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 104, 
+    "location": "", 
+    "name": "Nejc Kodri\u010d", 
+    "notifications": false, 
+    "profile_background_color": "0F0A02", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/681201456/66b218fd7040a28f7edaba70457417a2.jpeg", 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/681201456/66b218fd7040a28f7edaba70457417a2.jpeg", 
+    "profile_background_tile": false, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/471292799946481665/I5_ZlMZJ_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/471292799946481665/I5_ZlMZJ_normal.jpeg", 
+    "profile_link_color": "67940C", 
+    "profile_sidebar_border_color": "BCB302", 
+    "profile_sidebar_fill_color": "171106", 
+    "profile_text_color": "8A7302", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "nejc_kodric", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Fri Aug 29 11:10:56 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 541139133, 
+                    "id_str": "541139133", 
+                    "indices": [
+                        0, 
+                        16
+                    ], 
+                    "name": "michael ", 
+                    "screen_name": "michaelpcarrier"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 505311634907475969, 
+        "id_str": "505311634907475969", 
+        "in_reply_to_screen_name": "michaelpcarrier", 
+        "in_reply_to_status_id": 504767782425088000, 
+        "in_reply_to_status_id_str": "504767782425088000", 
+        "in_reply_to_user_id": 541139133, 
+        "in_reply_to_user_id_str": "541139133", 
+        "lang": "ht", 
+        "place": null, 
+        "retweet_count": 0, 
+        "retweeted": false, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "@michaelpcarrier michael, shoot me an email: nejc.kodric@bitstamp.net", 
+        "truncated": false
+    }, 
+    "statuses_count": 316, 
+    "time_zone": "Athens", 
+    "url": "http://t.co/DTvNCKKJ82", 
+    "utc_offset": 10800, 
+    "verified": false
+}

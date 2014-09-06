@@ -1,0 +1,112 @@
+{
+    "contributors_enabled": false, 
+    "created_at": "Sat Apr 18 09:34:14 +0000 2009", 
+    "default_profile": false, 
+    "default_profile_image": false, 
+    "description": "Metal connosieur, cryptocurrency rabbit-hole dweller, #JRE, advocate and activist in support of child-leashing. Married to my sexy drummer-bear @daturacurse", 
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    }, 
+    "favourites_count": 1179, 
+    "follow_request_sent": false, 
+    "followers_count": 302, 
+    "following": true, 
+    "friends_count": 344, 
+    "geo_enabled": false, 
+    "id": 32841620, 
+    "id_str": "32841620", 
+    "is_translation_enabled": false, 
+    "is_translator": false, 
+    "lang": "en", 
+    "listed_count": 4, 
+    "location": "Sydney Australia", 
+    "name": "Marie", 
+    "notifications": false, 
+    "profile_background_color": "131516", 
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+    "profile_background_tile": true, 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/501029804984922113/SKrZYh5p_normal.jpeg", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/501029804984922113/SKrZYh5p_normal.jpeg", 
+    "profile_link_color": "009999", 
+    "profile_sidebar_border_color": "EEEEEE", 
+    "profile_sidebar_fill_color": "EFEFEF", 
+    "profile_text_color": "333333", 
+    "profile_use_background_image": true, 
+    "protected": false, 
+    "screen_name": "MJordan9", 
+    "status": {
+        "contributors": null, 
+        "coordinates": null, 
+        "created_at": "Sat Sep 06 11:22:02 +0000 2014", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 34888586, 
+                    "id_str": "34888586", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Chuck Norris Facts", 
+                    "screen_name": "chuck_facts"
+                }
+            ]
+        }, 
+        "favorite_count": 0, 
+        "favorited": false, 
+        "geo": null, 
+        "id": 508213528998592512, 
+        "id_str": "508213528998592512", 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_status_id": null, 
+        "in_reply_to_status_id_str": null, 
+        "in_reply_to_user_id": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "place": null, 
+        "retweet_count": 44, 
+        "retweeted": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "coordinates": null, 
+            "created_at": "Sat Sep 06 08:00:25 +0000 2014", 
+            "entities": {
+                "hashtags": [], 
+                "symbols": [], 
+                "urls": [], 
+                "user_mentions": []
+            }, 
+            "favorite_count": 49, 
+            "favorited": false, 
+            "geo": null, 
+            "id": 508162791518519296, 
+            "id_str": "508162791518519296", 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_status_id": null, 
+            "in_reply_to_status_id_str": null, 
+            "in_reply_to_user_id": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "place": null, 
+            "retweet_count": 44, 
+            "retweeted": false, 
+            "source": "<a href=\"http://philnash.co.uk\" rel=\"nofollow\">Facts</a>", 
+            "text": "They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.", 
+            "truncated": false
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @chuck_facts: They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.", 
+        "truncated": false
+    }, 
+    "statuses_count": 1373, 
+    "time_zone": null, 
+    "url": null, 
+    "utc_offset": null, 
+    "verified": false
+}
