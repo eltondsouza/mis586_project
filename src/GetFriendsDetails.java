@@ -64,13 +64,24 @@ public class GetFriendsDetails {
 	    				{
 	    					if(!userList.contains(friendsList.get(i)))
 	    					{
-		    					User user = twitter.showUser((Long)friendsList.get(i));
+	    						
+	    						User user = null;
+	    						boolean exists = true;
+		    					try{
+		    					 user = twitter.showUser((Long)friendsList.get(i));
+		    					}
+		    					catch(TwitterException te){
+		    						exists = false;
+		    					}
+		    					
+		    					if(exists==true)
+		    					{
 		    					String rawJSON = TwitterObjectFactory.getRawJSON(user);
 		    					String fileName = "automated_users/" + user.getScreenName() + ".json";
 		    					userList.add(user);
 		    					storeJSON(rawJSON, fileName);
 		    					System.out.println("Added user no."+(++newUsersCount));
-		    					
+		    					}
 		    					if((newUsersCount)%180==0)
 			                    {
 			                    	Thread.sleep(15*60*1000);
