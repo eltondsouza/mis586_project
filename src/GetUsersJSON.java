@@ -57,11 +57,11 @@ public final class GetUsersJSON {
             IDs ids;
             System.out.println("Listing following ids.");
         	new File("user_json").mkdir();
-
+        	int counter = 0;
             do {
             	
             	
-            	
+            	System.out.println(counter);
                 if (0 < args.length) {
                     ids = twitter.getFriendsIDs(args[0], cursor);
                 } else {
@@ -79,6 +79,7 @@ public final class GetUsersJSON {
                 	
                     String rawJSON = TwitterObjectFactory.getRawJSON(user);
                     String fileName = "user_json/" + user.getScreenName() + ".json";
+                    //String fileName = "user_json/consolidated.json";
                     storeJSON(rawJSON, fileName);
 //                    System.out.println(fileName + " - " + status.getText());
                 
@@ -104,7 +105,7 @@ public final class GetUsersJSON {
 			e.printStackTrace();
 		}
     }
-    private static void storeJSON(String rawJSON, String fileName) throws IOException {
+    public static void storeJSON(String rawJSON, String fileName) throws IOException {
         FileOutputStream fos = null;
         OutputStreamWriter osw = null;
         BufferedWriter bw = null;

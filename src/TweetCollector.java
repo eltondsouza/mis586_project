@@ -30,7 +30,7 @@ public class TweetCollector {
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
     	
-    	Query query = new Query("#bitcoin #cryptocurrency");
+    	Query query = new Query("#bitcoin");
     	    QueryResult result = twitter.search(query);
     	    
     	    int counter = 0;
@@ -38,8 +38,9 @@ public class TweetCollector {
     	    for (Status status : result.getTweets()) {
     	        System.out.println("@" + status.getUser().getScreenName() + ":" + status.getText());
     	        
-    	        if(counter++ == 10)
+    	        if(counter++ == 70)
     	        	System.exit(0);
+    	        
     	    }
 	}
 }
