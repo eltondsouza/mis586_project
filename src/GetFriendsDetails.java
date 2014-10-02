@@ -67,11 +67,22 @@ public class GetFriendsDetails {
 	    						
 	    						User user = null;
 	    						boolean exists = true;
+	    						System.out.println("Here!");
 		    					try{
 		    					 user = twitter.showUser((Long)friendsList.get(i));
 		    					}
 		    					catch(TwitterException te){
-		    						exists = false;
+		    						
+		    						if(te.getStatusCode()==404)
+		    						{
+		    							exists = false;
+		    							continue;
+		    						}
+		    						if(te.getStatusCode()==429)
+		    						{
+		    							System.out.println("Waiting.....");
+		    							Thread.sleep(15*60*1000);
+		    						}
 		    					}
 		    					
 		    					if(exists==true)
@@ -93,23 +104,24 @@ public class GetFriendsDetails {
 	    	}
 	    	
 	    	catch (FileNotFoundException ex) {
-	    		
+	    					System.out.println("1");
 	    		            ex.printStackTrace();
 	    		
 	    		        } catch (IOException ex) {
-	    		
+	    		        	System.out.println("2");
 	    		            ex.printStackTrace();
 	    		
 	    		        } catch (ParseException ex) {
-	    		
+	    		        	System.out.println("3");
 	    		            ex.printStackTrace();
 	    		
 	    		        } catch (NullPointerException ex) {
-	    		
+	    		        	System.out.println("4");
 	    		            ex.printStackTrace();
 	
 	    		        } catch (InterruptedException e) {
 							// TODO Auto-generated catch block
+	    		        	System.out.println("5");
 							e.printStackTrace();
 						}
 	
