@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="libraries/lib/twitter4j-core-4.0.2.jar"/>
 	<classpathentry kind="lib" path="libraries/lib/twitter4j-async-4.0.2.jar"/>
 	<classpathentry kind="lib" path="libraries/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libraries/lib/mongo-2.10.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
