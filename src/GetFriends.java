@@ -38,7 +38,7 @@ public class GetFriends {
 	{
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
-		DBCollection coll = db.getCollection("cryptoUsers");
+		DBCollection coll = db.getCollection("pr2_coreusers");
 		DBCollection friendsList = db.getCollection("friendsList");
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
