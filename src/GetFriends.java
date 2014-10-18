@@ -115,7 +115,7 @@ public class GetFriends {
 					   IDs FriendsIDs = null;
 					   long twitterCursor = -1;
 					   
-					   do{
+					   
 						
 						   boolean noFriends = false;
 						   try 
@@ -166,8 +166,7 @@ public class GetFriends {
 						   
 						   //insert the DBObject
 						   friendsList.insert(doc);
-					   }   
-					   while ((twitterCursor = FriendsIDs.getNextCursor()) != 0);
+					   
 					   System.out.println("User no: "+counter++);
 				    
 			   }
