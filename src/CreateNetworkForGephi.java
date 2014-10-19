@@ -34,7 +34,7 @@ public class CreateNetworkForGephi {
 				ArrayList<Long> friendsIDs = (ArrayList <Long>) sourceCursor.next().get("friends");
 				//System.out.println(destID);
 				//System.out.println(friendsIDs);
-				System.out.println("Checking if "+sourceCursor.curr().get("screen_name")+" is following "+destCursor.curr().get("screen_name"));
+				//System.out.println("Checking if "+sourceCursor.curr().get("screen_name")+" is following "+destCursor.curr().get("screen_name"));
 				if(friendsIDs.contains(destID))
 				{
 					BasicDBObject doc = new BasicDBObject("source",sourceCursor.curr().get("screen_name")).append("dest",destCursor.curr().get("screen_name"));
