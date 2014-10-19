@@ -21,6 +21,8 @@ public class CreateNetworkForGephi {
 		DBCursor destCursor = dest.find();
 		int counter = 0;
 		
+		destCursor.addOption(com.mongodb.Bytes.QUERYOPTION_NOTIMEOUT);
+		
 		while(destCursor.hasNext())
 		{
 			
