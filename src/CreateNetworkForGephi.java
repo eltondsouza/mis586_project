@@ -25,7 +25,7 @@ public class CreateNetworkForGephi {
 		{
 			
 			Long destID = (Long)destCursor.next().get("id");
-			System.out.println("The destination node's ID is "+destID);
+			System.out.println("User No: "+counter++);
 			DBCursor sourceCursor = source.find();
 			
 			while(sourceCursor.hasNext())
