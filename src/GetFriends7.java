@@ -161,7 +161,7 @@ public class GetFriends7 {
 						   long[] FriendsIDsLong = FriendsIDs.getIDs();
 						   
 						   ArrayList<String> FriendsIDsString = new ArrayList<String>();
-						   for(int j=0;i<FriendsIDsLong.length;j++)
+						   for(int j=0;j<FriendsIDsLong.length;j++)
 						   {
 							   FriendsIDsString.add(String.valueOf(FriendsIDsLong[j]));
 							   
