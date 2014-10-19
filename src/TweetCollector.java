@@ -22,15 +22,15 @@ public class TweetCollector {
 	    
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("dstu8zdadkx2hf4CHpcegKTNy")
-    	  .setOAuthConsumerSecret("64cCY6jjsdJFI0nwD5zfddSjfFgD3AqD3vBOSdHBw3T7ZAB11Z")
-    	  .setOAuthAccessToken("2777354556-9QpSxTFiLRq4HXTpMrlQ06sCM0vxr7K5qyDSVY7")
-    	  .setOAuthAccessTokenSecret("qvQhJBXdQEdavKgvNxnJyq5EnQYZk1SDNmSnMSjSkkJa1")
+    	  .setOAuthConsumerKey("BK51tFzaQMpUOxlkqVlF0Yavy")
+    	  .setOAuthConsumerSecret("25egEBzQjDG6Mt3lWBOZle1U8MqZrpg3Lq12KpoBWXU7etdlLb")
+    	  .setOAuthAccessToken("138051557-YYkZQMYSVWd6FoKTQVj4K7h0CzCsocxsaLjMbw5g")
+    	  .setOAuthAccessTokenSecret("jMM04wzOXCs26oEzZKTFFduFg5NHsn0bMvcCHIMqIBOZ5")
     	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
     	
-    	Query query = new Query("#bitcoin");
+    	Query query = new Query("@actualadvicealt");
     	    QueryResult result = twitter.search(query);
     	    
     	    int counter = 0;
