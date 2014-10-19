@@ -40,7 +40,7 @@ public class GetFriends4 {
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
 		DBCollection coll = db.getCollection("pr2_coreusers");
-		DBCollection friendsList = db.getCollection("friendsList");
+		DBCollection friendsList = db.getCollection("newfriendsList");
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
@@ -175,7 +175,7 @@ public class GetFriends4 {
 						   BasicDBObject doc = new BasicDBObject("id", Long.parseLong(id)).append("id_str",id )
 					        .append("screen_name", screen_name)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
-					  
+						   friendsList.insert(doc);
 					   System.out.println("User no: "+counter++);
 				    
 			   }
