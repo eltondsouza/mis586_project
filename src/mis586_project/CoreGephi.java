@@ -62,7 +62,14 @@ public class CoreGephi {
 		
 		while(friendCursor.hasNext())
 		{
+			try{
 			Long ID = (Long) friendCursor.next().get("id");
+			}
+			catch()
+			{
+				
+			}
+			
 			if(coreUserIDs.contains(ID))
 			{
 				//if present, add to coreFriends collection

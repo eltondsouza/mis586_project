@@ -39,30 +39,44 @@ public class GetFriends4 {
 	{
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
-		DBCollection coll = db.getCollection("pr2_coreusers");
-		DBCollection friendsList = db.getCollection("newfriendsList");
+		DBCollection userColl = db.getCollection("pr2_coreusers");
+		DBCollection friendsList = db.getCollection("newFriendsList");
+		
+		
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("OYeNYvnFToMjtV0XwVgGcm1Zw")
-    	  .setOAuthConsumerSecret("Od2iGwFvxnDj0M9CW2olJQUKbzi8IthGE8PpzbV8D1TRBs5Xlu")
-    	  .setOAuthAccessToken("2319838854-wzymzSoeDst85eVZAqGBwmthSZizWjXbFzTOhoW")
-    	  .setOAuthAccessTokenSecret("1SGRk1KAioGsoveRZbpAarEGRH10hm89s6y9IqlFGswLT")
+    	  .setOAuthConsumerKey("5at9oIC6aqWOGYE635Cw8dX8z")
+    	  .setOAuthConsumerSecret("ACvypDRJWO5Ni2HDQxYvm9Z4uSD3MZhxVou92gFJvLg1MOO2wG")
+    	  .setOAuthAccessToken("39952747-IcSqsSoPphTWaLoIwYaUITWQ5PmeyV40bQHgkTf4C")
+    	  .setOAuthAccessTokenSecret("Nn4NEH9XE9xIb6QXu3R8kOdocncplz67Cq8RZlrOZlyOu")
     	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
-		String[] ids = {"334090417","10448732","223315248","9337702","301038559","2770511","41140413","16330402","2682395184","1562625614","818306821","1584350917","351306056","2438933293","2257350176","15227738","2353822842","16404277","73572217","1877857849","142515652","32841620","2278064736","14948062","295049967","14110443","16214322","527119125","572478728","15681800"};
-		String[] screen_names = {"DarrenMan777","davidgilson","DavidShares","dbasch","Dean5mith","Devar","devnullius","dgcmagazine","DigitalCrypto","diiorioanthony","DirectPayNet","DoctorBitcoin","DoctorGoss","DogeCoinFiend","dogecoinisgreat","DogeCoinShibe","dogeonomics","drewcbarnard","Ed_Lemieux","EdmundCMoy","mineITforward","MJordan9","mklords","mohland","MrChrisEllis","muneeb","myazri","NagleMary","nejc_kodric","netscr1be"}; 
+		
+    	DBCursor  userCursor = userColl.find().skip(725*3).limit(725);
+		userCursor.addOption(com.mongodb.Bytes.QUERYOPTION_NOTIMEOUT);
+    	
+		ArrayList<String> ids = new ArrayList<String>();
+		ArrayList<String> screen_names = new ArrayList<String>();
+		while(userCursor.hasNext())
+		{
+			ids.add((String)userCursor.next().get("id_str"));
+			screen_names.add((String)userCursor.curr().get("screen_name"));
+		}
+		
+    	//String[] ids = {"2230083151","2241329875","1268759210","2333408605","1423870044","2209677878","2155219346","299952246","2390188770","2197377873","2616036566","2828426172","90135167","2309637680","2175120708","2314255350","12503922","14379660","28813427","19337489","217081909","2273578802","90565003","29468585","19132398","2201220235","1387081490","901796180","22682896","443484148"};
+		//String[] screen_names = {"BitcoinBelle","bitcoinbill","BitcoinDoc","BitcoinFather","BitCoinKid","bitcoinmom","bitcoinpotato","BitCoinReporter","BitcoinSARAH","Bitcoinwoman","BitcoinzMan","BitcoinzWoman","bitjson","BittrexExchange","bitxbitxbitcoin","blondebitcoin","bodil","brian_armstrong","briancartmell","BrianKellyBK","BrianSantoshi","BrighamC","BrittanyErstad","brockpierce","brucefenton","BryceWeiner","btcdrak","btcven","CharlieShrem","ChekaZ_"}; 
 		//DBCursor mongo_cursor = coll.find();
-		int counter = 1;
+		int counter = 0;
 		
 		
-			   for(int i = 0;i<ids.length;i++) 
+			   for(int i = 0;i<ids.size();i++) 
 			   {
 			      
 			       
-				    String id = ids[i];
-				    String screen_name = screen_names[i];
+				    String id = ids.get(i);
+				    String screen_name = screen_names.get(i);
 				    System.out.println(id+":"+screen_name);
 					//System.out.println(counter);
 					   
@@ -142,18 +156,14 @@ public class GetFriends4 {
 									}
 			            			catch(TwitterException g)
 			            			{
-			            				
-			            				System.out.println("Error code: "+e.getStatusCode()+" Could not find friends for "+screen_name);
-			            				
+			            				System.out.println("Could not find friends for "+screen_name);
 			            				noFriends = true;
 			            			}
 							   }
 							   
 							   else
 							   {
-								   System.out.println("Error code: "+e.getStatusCode()+"Could not find friends for "+screen_name);
-								   
-								   e.printStackTrace();
+								   System.out.println("Could not find friends for "+screen_name);
 								   noFriends = true;
 							   }
 						   }
@@ -163,7 +173,6 @@ public class GetFriends4 {
 						   
 						   //get Friends IDs as an array of long
 						   long[] FriendsIDsLong = FriendsIDs.getIDs();
-						   
 						   ArrayList<String> FriendsIDsString = new ArrayList<String>();
 						   for(int j=0;j<FriendsIDsLong.length;j++)
 						   {
@@ -176,6 +185,7 @@ public class GetFriends4 {
 					        .append("screen_name", screen_name)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
 						   friendsList.insert(doc);
+					   
 					   System.out.println("User no: "+counter++);
 				    
 			   }

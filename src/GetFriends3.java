@@ -39,30 +39,44 @@ public class GetFriends3 {
 	{
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
-		DBCollection coll = db.getCollection("pr2_coreusers");
-		DBCollection friendsList = db.getCollection("newfriendsList");
+		DBCollection userColl = db.getCollection("pr2_coreusers");
+		DBCollection friendsList = db.getCollection("newFriendsList");
+		
+		
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("dstu8zdadkx2hf4CHpcegKTNy")
-    	  .setOAuthConsumerSecret("64cCY6jjsdJFI0nwD5zfddSjfFgD3AqD3vBOSdHBw3T7ZAB11Z")
-    	  .setOAuthAccessToken("2777354556-9QpSxTFiLRq4HXTpMrlQ06sCM0vxr7K5qyDSVY7")
-    	  .setOAuthAccessTokenSecret("qvQhJBXdQEdavKgvNxnJyq5EnQYZk1SDNmSnMSjSkkJa1")
+    	  .setOAuthConsumerKey("5at9oIC6aqWOGYE635Cw8dX8z")
+    	  .setOAuthConsumerSecret("ACvypDRJWO5Ni2HDQxYvm9Z4uSD3MZhxVou92gFJvLg1MOO2wG")
+    	  .setOAuthAccessToken("39952747-IcSqsSoPphTWaLoIwYaUITWQ5PmeyV40bQHgkTf4C")
+    	  .setOAuthAccessTokenSecret("Nn4NEH9XE9xIb6QXu3R8kOdocncplz67Cq8RZlrOZlyOu")
     	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
-		String[] ids = {"2319408132","2332842072","38129556","19805098","2381420407","2567934373","2234577642","2329290331","2315539361","2259434528","1394496090","40217798","1429437746","2435734063","625289155","92592782","2347718839","2768000832","2392531752","2309081983","2406505603","2505478057","2228501803","20737357","243088415","14200949","65923928","385162204","267344900","26499336"};
-		String[] screen_names = {"coin_artist","CoinBaron","conniegallippi","coolbearcjs","crazy_crypto","cryptmidas","Crypto_Investor","CryptoAdvice","CryptoAsian","CryptoCobain","Cryptocoinbiz","CryptoCoinNL","CryptoConnectz","CryptoCryptics","CryptoCurrent","CryptoIcahn","CryptoKnights","Cryptology101","cryptomillion","CryptoOracle","CryptoPhantom","CryptoRox","CryptoSnoop","CT2Rox","currencyhacker","dadicool","damijanmerlak","dan_pantera","danicellero","darkip"}; 
+		
+    	DBCursor  userCursor = userColl.find().skip(725*2).limit(725);
+		userCursor.addOption(com.mongodb.Bytes.QUERYOPTION_NOTIMEOUT);
+    	
+		ArrayList<String> ids = new ArrayList<String>();
+		ArrayList<String> screen_names = new ArrayList<String>();
+		while(userCursor.hasNext())
+		{
+			ids.add((String)userCursor.next().get("id_str"));
+			screen_names.add((String)userCursor.curr().get("screen_name"));
+		}
+		
+    	//String[] ids = {"2230083151","2241329875","1268759210","2333408605","1423870044","2209677878","2155219346","299952246","2390188770","2197377873","2616036566","2828426172","90135167","2309637680","2175120708","2314255350","12503922","14379660","28813427","19337489","217081909","2273578802","90565003","29468585","19132398","2201220235","1387081490","901796180","22682896","443484148"};
+		//String[] screen_names = {"BitcoinBelle","bitcoinbill","BitcoinDoc","BitcoinFather","BitCoinKid","bitcoinmom","bitcoinpotato","BitCoinReporter","BitcoinSARAH","Bitcoinwoman","BitcoinzMan","BitcoinzWoman","bitjson","BittrexExchange","bitxbitxbitcoin","blondebitcoin","bodil","brian_armstrong","briancartmell","BrianKellyBK","BrianSantoshi","BrighamC","BrittanyErstad","brockpierce","brucefenton","BryceWeiner","btcdrak","btcven","CharlieShrem","ChekaZ_"}; 
 		//DBCursor mongo_cursor = coll.find();
 		int counter = 0;
 		
 		
-			   for(int i = 0;i<ids.length;i++) 
+			   for(int i = 0;i<ids.size();i++) 
 			   {
 			      
 			       
-				    String id = ids[i];
-				    String screen_name = screen_names[i];
+				    String id = ids.get(i);
+				    String screen_name = screen_names.get(i);
 				    System.out.println(id+":"+screen_name);
 					//System.out.println(counter);
 					   
@@ -159,7 +173,6 @@ public class GetFriends3 {
 						   
 						   //get Friends IDs as an array of long
 						   long[] FriendsIDsLong = FriendsIDs.getIDs();
-						   
 						   ArrayList<String> FriendsIDsString = new ArrayList<String>();
 						   for(int j=0;j<FriendsIDsLong.length;j++)
 						   {
@@ -172,6 +185,7 @@ public class GetFriends3 {
 					        .append("screen_name", screen_name)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
 						   friendsList.insert(doc);
+					   
 					   System.out.println("User no: "+counter++);
 				    
 			   }

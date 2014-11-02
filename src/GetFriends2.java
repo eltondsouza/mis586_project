@@ -12,6 +12,7 @@ import twitter4j.TwitterFactory;
 import twitter4j.TwitterObjectFactory;
 import twitter4j.User;
 import twitter4j.conf.ConfigurationBuilder;
+
 import com.mongodb.BasicDBList;
 //Mongo imports
 import com.mongodb.BasicDBObject;
@@ -38,30 +39,44 @@ public class GetFriends2 {
 	{
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
-		DBCollection coll = db.getCollection("pr2_coreusers");
-		DBCollection friendsList = db.getCollection("newfriendsList");
+		DBCollection userColl = db.getCollection("pr2_coreusers");
+		DBCollection friendsList = db.getCollection("newFriendsList");
+		
+		
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("vMytLV6bzG4otGS07Jw4G5QzM")
-    	  .setOAuthConsumerSecret("p5JFK69yjllevlo1Swp6SwFkjieRSjEQruzYJcV7k84wrl5eOs")
-    	  .setOAuthAccessToken("2502815221-a1nA1rJFCY50AqUIWtPYeRGBKqC7RYXwrB2M8pV")
-    	  .setOAuthAccessTokenSecret("gAtrqkZagEf3kvmZgx3EpLJVXIiu58hbaYFUUv1b45eM7")
+    	  .setOAuthConsumerKey("5at9oIC6aqWOGYE635Cw8dX8z")
+    	  .setOAuthConsumerSecret("ACvypDRJWO5Ni2HDQxYvm9Z4uSD3MZhxVou92gFJvLg1MOO2wG")
+    	  .setOAuthAccessToken("39952747-IcSqsSoPphTWaLoIwYaUITWQ5PmeyV40bQHgkTf4C")
+    	  .setOAuthAccessTokenSecret("Nn4NEH9XE9xIb6QXu3R8kOdocncplz67Cq8RZlrOZlyOu")
     	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
-		String[] ids = {"302202446","782632","2509966249","1469101279","91308344","2268690198","553389027","213236426","213222099","53089954","15254730","1036508786","2258136452","14698049","2257104332","2218386410","2234070631","19844311","916257050","267485701","1260416562","396045469","101313519","776581","5369302","45184849","1449991944","2324022344","2226867176","1420795609"};
-		String[] screen_names = {"_marcelo_d","3en","a_kerya","aantonop","aaronsiwoku","aBitcoinGirl","Actor_Maahi","adam3us","AhmedHasanCA","alansilbert","Alex_Amsel","AlexanderHaxton","alexImmachill","alexip","Altcoin_SunTzu","Altcoinity","AltMinerD","andrewtdesantis","AngeloBTC","AriannaSimpson","AshridgeBitCoin","barrysilbert","BenIsgur","BFIrrera","bhaugh","BigDShaggyJ","Bitcoin_Altcoin","bitcoin_dad","bitcoin_sm","BitCoin_Win"}; 
+		
+    	DBCursor  userCursor = userColl.find().skip(725).limit(725);
+		userCursor.addOption(com.mongodb.Bytes.QUERYOPTION_NOTIMEOUT);
+    	
+		ArrayList<String> ids = new ArrayList<String>();
+		ArrayList<String> screen_names = new ArrayList<String>();
+		while(userCursor.hasNext())
+		{
+			ids.add((String)userCursor.next().get("id_str"));
+			screen_names.add((String)userCursor.curr().get("screen_name"));
+		}
+		
+    	//String[] ids = {"2230083151","2241329875","1268759210","2333408605","1423870044","2209677878","2155219346","299952246","2390188770","2197377873","2616036566","2828426172","90135167","2309637680","2175120708","2314255350","12503922","14379660","28813427","19337489","217081909","2273578802","90565003","29468585","19132398","2201220235","1387081490","901796180","22682896","443484148"};
+		//String[] screen_names = {"BitcoinBelle","bitcoinbill","BitcoinDoc","BitcoinFather","BitCoinKid","bitcoinmom","bitcoinpotato","BitCoinReporter","BitcoinSARAH","Bitcoinwoman","BitcoinzMan","BitcoinzWoman","bitjson","BittrexExchange","bitxbitxbitcoin","blondebitcoin","bodil","brian_armstrong","briancartmell","BrianKellyBK","BrianSantoshi","BrighamC","BrittanyErstad","brockpierce","brucefenton","BryceWeiner","btcdrak","btcven","CharlieShrem","ChekaZ_"}; 
 		//DBCursor mongo_cursor = coll.find();
 		int counter = 0;
 		
 		
-			   for(int i = 0;i<ids.length;i++) 
+			   for(int i = 0;i<ids.size();i++) 
 			   {
 			      
 			       
-				    String id = ids[i];
-				    String screen_name = screen_names[i];
+				    String id = ids.get(i);
+				    String screen_name = screen_names.get(i);
 				    System.out.println(id+":"+screen_name);
 					//System.out.println(counter);
 					   
@@ -169,8 +184,6 @@ public class GetFriends2 {
 						   BasicDBObject doc = new BasicDBObject("id", Long.parseLong(id)).append("id_str",id )
 					        .append("screen_name", screen_name)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
-						   friendsList.insert(doc);
-						   //insert the DBObject
 						   friendsList.insert(doc);
 					   
 					   System.out.println("User no: "+counter++);
