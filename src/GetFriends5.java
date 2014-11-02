@@ -46,10 +46,10 @@ public class GetFriends5 {
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
     	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("5at9oIC6aqWOGYE635Cw8dX8z")
-    	  .setOAuthConsumerSecret("ACvypDRJWO5Ni2HDQxYvm9Z4uSD3MZhxVou92gFJvLg1MOO2wG")
-    	  .setOAuthAccessToken("39952747-IcSqsSoPphTWaLoIwYaUITWQ5PmeyV40bQHgkTf4C")
-    	  .setOAuthAccessTokenSecret("Nn4NEH9XE9xIb6QXu3R8kOdocncplz67Cq8RZlrOZlyOu")
+    	  .setOAuthConsumerKey("pA8ZUBi1ibxwY1ph9rhhwxXqt")
+    	  .setOAuthConsumerSecret("p1keRMUhDQQ0Eh0ChFHBOz8b4jCieSYoDySscUg8E1LXe8Jofi")
+    	  .setOAuthAccessToken("2777354556-7aqiunZ0EKgsNullr8OUzYMMvEcOYI0PD8DPRbt")
+    	  .setOAuthAccessTokenSecret("aReQrdpx9c6jrL7QqGOja7ZOIyXTHM5gKPTfOhtBqhSaO")
     	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
