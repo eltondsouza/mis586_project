@@ -21,6 +21,7 @@ import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
+import com.mongodb.MongoException;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
@@ -184,7 +185,16 @@ public class GetFriends7 {
 						   BasicDBObject doc = new BasicDBObject("id", Long.parseLong(id)).append("id_str",id )
 					        .append("screen_name", screen_name)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
-						   friendsList.insert(doc);
+						  // friendsList.insert(doc);
+						   
+						   
+						   try{
+							   friendsList.insert(doc);
+							   }
+						   catch(MongoException m)
+						   {
+							   System.out.println(m.getCode()+m.getMessage());
+						   }
 					   
 					   System.out.println("User no: "+counter++);
 				    
