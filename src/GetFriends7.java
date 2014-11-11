@@ -40,30 +40,30 @@ public class GetFriends7 {
 	{
 		MongoClient mongoClient = new MongoClient( "localhost" );
 		DB db = mongoClient.getDB( "bigdata" );
-		DBCollection userColl = db.getCollection("pr2_coreusers");
+		DBCollection userColl = db.getCollection("missingIDs");
 		DBCollection friendsList = db.getCollection("newFriendsList");
 		
 		
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
-    	cb.setDebugEnabled(true)
-    	  .setOAuthConsumerKey("BK51tFzaQMpUOxlkqVlF0Yavy")
-    	  .setOAuthConsumerSecret("25egEBzQjDG6Mt3lWBOZle1U8MqZrpg3Lq12KpoBWXU7etdlLb")
-    	  .setOAuthAccessToken("138051557-YYkZQMYSVWd6FoKTQVj4K7h0CzCsocxsaLjMbw5g")
-    	  .setOAuthAccessTokenSecret("jMM04wzOXCs26oEzZKTFFduFg5NHsn0bMvcCHIMqIBOZ5")
-    	  .setJSONStoreEnabled(true);
+		cb.setDebugEnabled(true)
+  	  .setOAuthConsumerKey("OYeNYvnFToMjtV0XwVgGcm1Zw")
+  	  .setOAuthConsumerSecret("Od2iGwFvxnDj0M9CW2olJQUKbzi8IthGE8PpzbV8D1TRBs5Xlu")
+  	  .setOAuthAccessToken("2319838854-wzymzSoeDst85eVZAqGBwmthSZizWjXbFzTOhoW")
+  	  .setOAuthAccessTokenSecret("1SGRk1KAioGsoveRZbpAarEGRH10hm89s6y9IqlFGswLT")
+  	  .setJSONStoreEnabled(true);
     	TwitterFactory tf = new TwitterFactory(cb.build());
     	Twitter twitter = tf.getInstance();
 		
-    	DBCursor  userCursor = userColl.find().skip(725*6).limit(725);
+    	DBCursor  userCursor = userColl.find();
 		userCursor.addOption(com.mongodb.Bytes.QUERYOPTION_NOTIMEOUT);
     	
 		ArrayList<String> ids = new ArrayList<String>();
 		ArrayList<String> screen_names = new ArrayList<String>();
 		while(userCursor.hasNext())
 		{
-			ids.add((String)userCursor.next().get("id_str"));
-			screen_names.add((String)userCursor.curr().get("screen_name"));
+			ids.add((String)userCursor.next().get("id"));
+			//screen_names.add((String)userCursor.curr().get("screen_name"));
 		}
 		
     	//String[] ids = {"2230083151","2241329875","1268759210","2333408605","1423870044","2209677878","2155219346","299952246","2390188770","2197377873","2616036566","2828426172","90135167","2309637680","2175120708","2314255350","12503922","14379660","28813427","19337489","217081909","2273578802","90565003","29468585","19132398","2201220235","1387081490","901796180","22682896","443484148"};
@@ -77,8 +77,8 @@ public class GetFriends7 {
 			      
 			       
 				    String id = ids.get(i);
-				    String screen_name = screen_names.get(i);
-				    System.out.println(id+":"+screen_name);
+				    //String screen_name = screen_names.get(i);
+				    System.out.println(id);
 					//System.out.println(counter);
 					   
 					boolean exists = true;
@@ -93,7 +93,7 @@ public class GetFriends7 {
 						if(te.getStatusCode()==404)
 	            		{
 	            			exists = false;
-	            			System.out.println("Could not find user"+screen_name);
+	            			System.out.println("Could not find user "+id);
 	            			
 	            		}
 	
@@ -117,7 +117,7 @@ public class GetFriends7 {
 								if(te.getStatusCode()==404)
 			            		{
 			            			exists = false;
-			            			System.out.println("Could not find user"+screen_name);
+			            			System.out.println("Could not find user "+id);
 			            			
 			            		}
 							}
@@ -157,14 +157,17 @@ public class GetFriends7 {
 									}
 			            			catch(TwitterException g)
 			            			{
-			            				System.out.println("Could not find friends for "+screen_name);
+			            				System.out.println("Could not find friends for "+id);
+			            				System.out.println(g.getErrorCode()+" "+g.getErrorMessage());
 			            				noFriends = true;
 			            			}
 							   }
 							   
 							   else
 							   {
-								   System.out.println("Could not find friends for "+screen_name);
+								   System.out.println("Could not find friends for "+id);
+								   System.out.println(e.getErrorCode()+" "+e.getErrorMessage());
+								   e.printStackTrace();
 								   noFriends = true;
 							   }
 						   }
@@ -183,11 +186,14 @@ public class GetFriends7 {
 						   
 						   //create DBObject				   
 						   BasicDBObject doc = new BasicDBObject("id", Long.parseLong(id)).append("id_str",id )
-					        .append("screen_name", screen_name)
+					        .append("screen_name", id)
 					        .append("friends", FriendsIDsLong).append("friendsString", FriendsIDsString);
 						  // friendsList.insert(doc);
 						   
-						   
+						DBCursor x = userColl.find(new BasicDBObject("id_str",id));
+						
+						if(x.count()==0)
+					   {   
 						   try{
 							   friendsList.insert(doc);
 							   }
@@ -196,7 +202,8 @@ public class GetFriends7 {
 							   System.out.println(m.getCode()+m.getMessage());
 						   }
 					   
-					   System.out.println("User no: "+counter++);
+						   System.out.println("User no: "+counter++);
+					   }
 				    
 			   }
 			} 
