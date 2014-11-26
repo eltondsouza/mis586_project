@@ -69,9 +69,17 @@ public class GetStatuses2 {
 						}
 				}
 				
-				if(!rateLimited)
-					userCursor.next();
+				
 			}
+	    	
+	    	if(!rateLimited)
+	    	{
+				System.out.println("Got tweets for "+screenName);
+	    		userCursor.next();
+	    	}
+	    	
+	    	else
+	    		continue;
 	    	
 	    	for (Status status : statuses) {
 				String jsonAsString = TwitterObjectFactory.getRawJSON(status);

@@ -8,10 +8,6 @@ import twitter4j.TwitterFactory;
 import twitter4j.TwitterObjectFactory;
 import twitter4j.conf.ConfigurationBuilder;
 
-
-
-
-
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
@@ -69,9 +65,17 @@ public class GetStatuses {
 						}
 				}
 				
-				if(!rateLimited)
-					userCursor.next();
+				
 			}
+	    	
+	    	if(!rateLimited)
+	    	{
+				System.out.println("Got tweets for "+screenName);
+	    		userCursor.next();
+	    	}
+	    	
+	    	else
+	    		continue;
 	    	
 	    	for (Status status : statuses) {
 				String jsonAsString = TwitterObjectFactory.getRawJSON(status);
